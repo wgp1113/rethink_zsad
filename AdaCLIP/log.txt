@@ -1,0 +1,1346 @@
+25-03-12 18:30:41.256 - INFO: batch_size = 1
+25-03-12 18:30:41.257 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/origin/models/['mvtec']_4.pth
+25-03-12 18:30:41.257 - INFO: class_name = candle
+25-03-12 18:30:41.257 - INFO: exclude_dataset_name = 
+25-03-12 18:30:41.257 - INFO: image_path = asset/img.png
+25-03-12 18:30:41.258 - INFO: image_size = 518
+25-03-12 18:30:41.258 - INFO: k_clusters = 20
+25-03-12 18:30:41.258 - INFO: model = ViT-L-14-336
+25-03-12 18:30:41.258 - INFO: prompting_branch = VL
+25-03-12 18:30:41.258 - INFO: prompting_depth = 4
+25-03-12 18:30:41.259 - INFO: prompting_length = 5
+25-03-12 18:30:41.259 - INFO: prompting_type = SD
+25-03-12 18:30:41.259 - INFO: save_fig = True
+25-03-12 18:30:41.259 - INFO: save_name = test.png
+25-03-12 18:30:41.260 - INFO: save_path = ./checkpoints/results
+25-03-12 18:30:41.260 - INFO: testing_data = mvtec
+25-03-12 18:30:41.260 - INFO: testing_model = dataset
+25-03-12 18:30:41.260 - INFO: training_data = ['mvtec', 'colondb']
+25-03-12 18:30:41.260 - INFO: use_hsf = True
+25-03-12 18:38:00.006 - INFO: batch_size = 1
+25-03-12 18:38:00.006 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/origin/models/['mvtec']_4.pth
+25-03-12 18:38:00.006 - INFO: class_name = candle
+25-03-12 18:38:00.006 - INFO: exclude_dataset_name = 
+25-03-12 18:38:00.006 - INFO: image_path = asset/img.png
+25-03-12 18:38:00.006 - INFO: image_size = 518
+25-03-12 18:38:00.006 - INFO: k_clusters = 20
+25-03-12 18:38:00.006 - INFO: model = ViT-L-14-336
+25-03-12 18:38:00.006 - INFO: prompting_branch = VL
+25-03-12 18:38:00.007 - INFO: prompting_depth = 4
+25-03-12 18:38:00.007 - INFO: prompting_length = 5
+25-03-12 18:38:00.007 - INFO: prompting_type = SD
+25-03-12 18:38:00.007 - INFO: save_fig = True
+25-03-12 18:38:00.007 - INFO: save_name = test.png
+25-03-12 18:38:00.007 - INFO: save_path = ./checkpoints/results
+25-03-12 18:38:00.007 - INFO: testing_data = mvtec
+25-03-12 18:38:00.007 - INFO: testing_model = dataset
+25-03-12 18:38:00.007 - INFO: training_data = ['mvtec', 'colondb']
+25-03-12 18:38:00.007 - INFO: use_hsf = True
+25-03-12 18:56:32.458 - INFO: batch_size = 1
+25-03-12 18:56:32.458 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/origin/models/['mvtec']_4.pth
+25-03-12 18:56:32.458 - INFO: class_name = candle
+25-03-12 18:56:32.458 - INFO: exclude_dataset_name = 
+25-03-12 18:56:32.458 - INFO: image_path = asset/img.png
+25-03-12 18:56:32.458 - INFO: image_size = 518
+25-03-12 18:56:32.458 - INFO: k_clusters = 20
+25-03-12 18:56:32.459 - INFO: model = ViT-L-14-336
+25-03-12 18:56:32.459 - INFO: prompting_branch = VL
+25-03-12 18:56:32.459 - INFO: prompting_depth = 4
+25-03-12 18:56:32.459 - INFO: prompting_length = 5
+25-03-12 18:56:32.459 - INFO: prompting_type = SD
+25-03-12 18:56:32.459 - INFO: save_fig = True
+25-03-12 18:56:32.459 - INFO: save_name = test.png
+25-03-12 18:56:32.459 - INFO: save_path = ./workspaces/results
+25-03-12 18:56:32.459 - INFO: testing_data = mvtec
+25-03-12 18:56:32.459 - INFO: testing_model = dataset
+25-03-12 18:56:32.459 - INFO: training_data = ['mvtec', 'colondb']
+25-03-12 18:56:32.459 - INFO: use_hsf = True
+25-03-12 20:06:55.960 - INFO: batch_size = 1
+25-03-12 20:06:55.961 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/origin/models/['mvtec']_4.pth
+25-03-12 20:06:55.961 - INFO: class_name = candle
+25-03-12 20:06:55.961 - INFO: exclude_dataset_name = 
+25-03-12 20:06:55.962 - INFO: image_path = asset/img.png
+25-03-12 20:06:55.962 - INFO: image_size = 518
+25-03-12 20:06:55.962 - INFO: k_clusters = 20
+25-03-12 20:06:55.962 - INFO: model = ViT-L-14-336
+25-03-12 20:06:55.963 - INFO: prompting_branch = VL
+25-03-12 20:06:55.963 - INFO: prompting_depth = 4
+25-03-12 20:06:55.963 - INFO: prompting_length = 5
+25-03-12 20:06:55.963 - INFO: prompting_type = SD
+25-03-12 20:06:55.964 - INFO: save_fig = True
+25-03-12 20:06:55.964 - INFO: save_name = test.png
+25-03-12 20:06:55.964 - INFO: save_path = ./checkpoints/results
+25-03-12 20:06:55.964 - INFO: testing_data = mvtec
+25-03-12 20:06:55.964 - INFO: testing_model = dataset
+25-03-12 20:06:55.965 - INFO: training_data = ['mvtec', 'colondb']
+25-03-12 20:06:55.965 - INFO: use_hsf = True
+25-03-12 20:08:46.495 - INFO: batch_size = 1
+25-03-12 20:08:46.496 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/origin/models/['mvtec']_4.pth
+25-03-12 20:08:46.496 - INFO: class_name = candle
+25-03-12 20:08:46.496 - INFO: exclude_dataset_name = 
+25-03-12 20:08:46.496 - INFO: image_path = asset/img.png
+25-03-12 20:08:46.497 - INFO: image_size = 518
+25-03-12 20:08:46.497 - INFO: k_clusters = 20
+25-03-12 20:08:46.497 - INFO: model = ViT-L-14-336
+25-03-12 20:08:46.497 - INFO: prompting_branch = VL
+25-03-12 20:08:46.497 - INFO: prompting_depth = 4
+25-03-12 20:08:46.498 - INFO: prompting_length = 5
+25-03-12 20:08:46.498 - INFO: prompting_type = SD
+25-03-12 20:08:46.498 - INFO: save_fig = True
+25-03-12 20:08:46.498 - INFO: save_name = test.png
+25-03-12 20:08:46.499 - INFO: save_path = ./checkpoints/results
+25-03-12 20:08:46.499 - INFO: testing_data = mvtec
+25-03-12 20:08:46.499 - INFO: testing_model = dataset
+25-03-12 20:08:46.499 - INFO: training_data = ['mvtec', 'colondb']
+25-03-12 20:08:46.500 - INFO: use_hsf = True
+25-03-12 20:11:44.420 - INFO: batch_size = 1
+25-03-12 20:11:44.421 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/origin/models/['mvtec']_4.pth
+25-03-12 20:11:44.421 - INFO: class_name = candle
+25-03-12 20:11:44.421 - INFO: exclude_dataset_name = 
+25-03-12 20:11:44.421 - INFO: image_path = asset/img.png
+25-03-12 20:11:44.422 - INFO: image_size = 518
+25-03-12 20:11:44.422 - INFO: k_clusters = 20
+25-03-12 20:11:44.422 - INFO: model = ViT-L-14-336
+25-03-12 20:11:44.422 - INFO: prompting_branch = VL
+25-03-12 20:11:44.423 - INFO: prompting_depth = 4
+25-03-12 20:11:44.423 - INFO: prompting_length = 5
+25-03-12 20:11:44.423 - INFO: prompting_type = SD
+25-03-12 20:11:44.423 - INFO: save_fig = True
+25-03-12 20:11:44.424 - INFO: save_name = test.png
+25-03-12 20:11:44.424 - INFO: save_path = ./checkpoints/results
+25-03-12 20:11:44.424 - INFO: testing_data = mvtec
+25-03-12 20:11:44.424 - INFO: testing_model = dataset
+25-03-12 20:11:44.424 - INFO: training_data = ['mvtec', 'colondb']
+25-03-12 20:11:44.425 - INFO: use_hsf = True
+25-03-12 20:18:43.772 - INFO: batch_size = 1
+25-03-12 20:18:43.773 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/origin/models/['mvtec']_4.pth
+25-03-12 20:18:43.773 - INFO: class_name = candle
+25-03-12 20:18:43.773 - INFO: exclude_dataset_name = 
+25-03-12 20:18:43.773 - INFO: image_path = asset/img.png
+25-03-12 20:18:43.774 - INFO: image_size = 518
+25-03-12 20:18:43.774 - INFO: k_clusters = 20
+25-03-12 20:18:43.774 - INFO: model = ViT-L-14-336
+25-03-12 20:18:43.774 - INFO: prompting_branch = VL
+25-03-12 20:18:43.775 - INFO: prompting_depth = 4
+25-03-12 20:18:43.775 - INFO: prompting_length = 5
+25-03-12 20:18:43.775 - INFO: prompting_type = SD
+25-03-12 20:18:43.775 - INFO: save_fig = True
+25-03-12 20:18:43.776 - INFO: save_name = test.png
+25-03-12 20:18:43.776 - INFO: save_path = ./checkpoints/results
+25-03-12 20:18:43.776 - INFO: testing_data = mvtec
+25-03-12 20:18:43.776 - INFO: testing_model = dataset
+25-03-12 20:18:43.777 - INFO: training_data = ['mvtec', 'colondb']
+25-03-12 20:18:43.777 - INFO: use_hsf = True
+25-03-12 20:36:43.884 - INFO: batch_size = 1
+25-03-12 20:36:43.884 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/origin/models/['mvtec']_4.pth
+25-03-12 20:36:43.884 - INFO: class_name = candle
+25-03-12 20:36:43.884 - INFO: exclude_dataset_name = 
+25-03-12 20:36:43.884 - INFO: image_path = asset/img.png
+25-03-12 20:36:43.884 - INFO: image_size = 518
+25-03-12 20:36:43.884 - INFO: k_clusters = 20
+25-03-12 20:36:43.885 - INFO: model = ViT-L-14-336
+25-03-12 20:36:43.885 - INFO: prompting_branch = VL
+25-03-12 20:36:43.885 - INFO: prompting_depth = 4
+25-03-12 20:36:43.885 - INFO: prompting_length = 5
+25-03-12 20:36:43.885 - INFO: prompting_type = SD
+25-03-12 20:36:43.885 - INFO: save_fig = True
+25-03-12 20:36:43.885 - INFO: save_name = test.png
+25-03-12 20:36:43.885 - INFO: save_path = ./workspaces/results
+25-03-12 20:36:43.885 - INFO: testing_data = mvtec
+25-03-12 20:36:43.885 - INFO: testing_model = dataset
+25-03-12 20:36:43.885 - INFO: training_data = ['mvtec', 'colondb']
+25-03-12 20:36:43.885 - INFO: use_hsf = True
+25-03-12 21:19:43.988 - INFO:          bottle 		P-Auroc:99.45 	P-F1:84.26 	P-AP:92.90 	Aupro:81.09 	I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00
+25-03-12 21:19:43.988 - INFO:           cable 		P-Auroc:96.57 	P-F1:72.26 	P-AP:76.22 	Aupro:53.64 	I-Auroc:98.86 	I-F1:96.70 	I-AP:99.38
+25-03-12 21:19:43.988 - INFO:         capsule 		P-Auroc:97.98 	P-F1:44.34 	P-AP:42.09 	Aupro:46.73 	I-Auroc:93.62 	I-F1:93.40 	I-AP:98.69
+25-03-12 21:19:43.988 - INFO:          carpet 		P-Auroc:99.74 	P-F1:80.09 	P-AP:89.53 	Aupro:82.37 	I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00
+25-03-12 21:19:43.988 - INFO:            grid 		P-Auroc:99.42 	P-F1:56.65 	P-AP:60.79 	Aupro:49.18 	I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00
+25-03-12 21:19:43.989 - INFO:        hazelnut 		P-Auroc:99.78 	P-F1:84.79 	P-AP:92.18 	Aupro:67.76 	I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00
+25-03-12 21:19:43.989 - INFO:         leather 		P-Auroc:99.88 	P-F1:77.70 	P-AP:85.99 	Aupro:88.52 	I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00
+25-03-12 21:19:43.989 - INFO:       metal_nut 		P-Auroc:99.67 	P-F1:93.81 	P-AP:98.39 	Aupro:74.59 	I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00
+25-03-12 21:19:43.989 - INFO:            pill 		P-Auroc:99.71 	P-F1:86.62 	P-AP:94.08 	Aupro:62.17 	I-Auroc:98.69 	I-F1:97.87 	I-AP:99.76
+25-03-12 21:19:43.989 - INFO:           screw 		P-Auroc:99.02 	P-F1:52.10 	P-AP:54.22 	Aupro:32.18 	I-Auroc:96.88 	I-F1:94.42 	I-AP:99.00
+25-03-12 21:19:43.989 - INFO:            tile 		P-Auroc:99.65 	P-F1:87.95 	P-AP:96.08 	Aupro:91.52 	I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00
+25-03-12 21:19:43.989 - INFO:      toothbrush 		P-Auroc:99.42 	P-F1:69.32 	P-AP:72.72 	Aupro:22.94 	I-Auroc:95.83 	I-F1:95.24 	I-AP:98.35
+25-03-12 21:19:43.989 - INFO:      transistor 		P-Auroc:94.43 	P-F1:55.81 	P-AP:55.66 	Aupro:31.60 	I-Auroc:98.21 	I-F1:92.50 	I-AP:98.00
+25-03-12 21:19:43.989 - INFO:            wood 		P-Auroc:99.43 	P-F1:80.26 	P-AP:89.69 	Aupro:86.67 	I-Auroc:99.91 	I-F1:99.17 	I-AP:99.97
+25-03-12 21:19:43.989 - INFO:          zipper 		P-Auroc:99.48 	P-F1:74.13 	P-AP:83.26 	Aupro:62.57 	I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00
+25-03-12 21:19:43.990 - INFO:         Average 		P-Auroc:98.91 	P-F1:73.34 	P-AP:78.92 	Aupro:62.23 	I-Auroc:98.80 	I-F1:97.95 	I-AP:99.54
+25-03-12 21:23:47.806 - INFO: batch_size = 1
+25-03-12 21:23:47.806 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/origin/models/['mvtec']_4.pth
+25-03-12 21:23:47.807 - INFO: class_name = candle
+25-03-12 21:23:47.807 - INFO: exclude_dataset_name = 
+25-03-12 21:23:47.807 - INFO: image_path = asset/img.png
+25-03-12 21:23:47.807 - INFO: image_size = 518
+25-03-12 21:23:47.807 - INFO: k_clusters = 20
+25-03-12 21:23:47.807 - INFO: model = ViT-L-14-336
+25-03-12 21:23:47.807 - INFO: prompting_branch = VL
+25-03-12 21:23:47.807 - INFO: prompting_depth = 4
+25-03-12 21:23:47.807 - INFO: prompting_length = 5
+25-03-12 21:23:47.807 - INFO: prompting_type = SD
+25-03-12 21:23:47.807 - INFO: save_fig = True
+25-03-12 21:23:47.807 - INFO: save_name = test.png
+25-03-12 21:23:47.807 - INFO: save_path = ./workspaces/results
+25-03-12 21:23:47.808 - INFO: testing_data = visa
+25-03-12 21:23:47.808 - INFO: testing_model = dataset
+25-03-12 21:23:47.808 - INFO: training_data = ['mvtec', 'colondb']
+25-03-12 21:23:47.808 - INFO: use_hsf = True
+25-03-12 22:13:15.125 - INFO:          candle 		P-Auroc:98.39 	P-F1:37.68 	P-AP:30.11 	Aupro:51.61 	I-Auroc:94.58 	I-F1:85.86 	I-AP:95.11
+25-03-12 22:13:15.126 - INFO:        capsules 		P-Auroc:97.61 	P-F1:43.23 	P-AP:33.59 	Aupro:76.60 	I-Auroc:61.02 	I-F1:77.22 	I-AP:70.47
+25-03-12 22:13:15.126 - INFO:          cashew 		P-Auroc:93.56 	P-F1:33.69 	P-AP:30.40 	Aupro:83.00 	I-Auroc:79.00 	I-F1:81.86 	I-AP:90.32
+25-03-12 22:13:15.126 - INFO:      chewinggum 		P-Auroc:99.67 	P-F1:79.03 	P-AP:86.62 	Aupro:46.72 	I-Auroc:96.86 	I-F1:93.47 	I-AP:98.61
+25-03-12 22:13:15.126 - INFO:           fryum 		P-Auroc:92.93 	P-F1:25.10 	P-AP:19.17 	Aupro:49.26 	I-Auroc:82.03 	I-F1:84.65 	I-AP:90.72
+25-03-12 22:13:15.126 - INFO:       macaroni1 		P-Auroc:99.21 	P-F1:33.98 	P-AP:23.22 	Aupro:45.25 	I-Auroc:83.70 	I-F1:78.97 	I-AP:83.41
+25-03-12 22:13:15.126 - INFO:       macaroni2 		P-Auroc:99.02 	P-F1:15.49 	P-AP:7.73 	Aupro:49.39 	I-Auroc:69.70 	I-F1:69.40 	I-AP:70.24
+25-03-12 22:13:15.126 - INFO:            pcb1 		P-Auroc:92.47 	P-F1:20.19 	P-AP:13.22 	Aupro:66.89 	I-Auroc:82.45 	I-F1:77.83 	I-AP:82.18
+25-03-12 22:13:15.126 - INFO:            pcb2 		P-Auroc:90.93 	P-F1:28.56 	P-AP:17.05 	Aupro:80.98 	I-Auroc:47.14 	I-F1:66.67 	I-AP:53.03
+25-03-12 22:13:15.126 - INFO:            pcb3 		P-Auroc:90.03 	P-F1:31.18 	P-AP:23.47 	Aupro:81.10 	I-Auroc:63.01 	I-F1:66.91 	I-AP:66.33
+25-03-12 22:13:15.126 - INFO:            pcb4 		P-Auroc:95.04 	P-F1:36.27 	P-AP:28.86 	Aupro:86.75 	I-Auroc:61.75 	I-F1:67.12 	I-AP:63.43
+25-03-12 22:13:15.127 - INFO:      pipe_fryum 		P-Auroc:94.85 	P-F1:32.42 	P-AP:25.70 	Aupro:83.71 	I-Auroc:70.82 	I-F1:82.97 	I-AP:83.92
+25-03-12 22:13:15.127 - INFO:         Average 		P-Auroc:95.31 	P-F1:34.73 	P-AP:28.26 	Aupro:66.77 	I-Auroc:74.34 	I-F1:77.74 	I-AP:78.98
+25-03-12 22:13:20.375 - INFO: batch_size = 1
+25-03-12 22:13:20.375 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/origin/models/['visa']_4.pth
+25-03-12 22:13:20.375 - INFO: class_name = candle
+25-03-12 22:13:20.375 - INFO: exclude_dataset_name = 
+25-03-12 22:13:20.375 - INFO: image_path = asset/img.png
+25-03-12 22:13:20.375 - INFO: image_size = 518
+25-03-12 22:13:20.375 - INFO: k_clusters = 20
+25-03-12 22:13:20.375 - INFO: model = ViT-L-14-336
+25-03-12 22:13:20.375 - INFO: prompting_branch = VL
+25-03-12 22:13:20.375 - INFO: prompting_depth = 4
+25-03-12 22:13:20.375 - INFO: prompting_length = 5
+25-03-12 22:13:20.376 - INFO: prompting_type = SD
+25-03-12 22:13:20.376 - INFO: save_fig = True
+25-03-12 22:13:20.376 - INFO: save_name = test.png
+25-03-12 22:13:20.376 - INFO: save_path = ./workspaces/results
+25-03-12 22:13:20.376 - INFO: testing_data = mvtec
+25-03-12 22:13:20.376 - INFO: testing_model = dataset
+25-03-12 22:13:20.376 - INFO: training_data = ['mvtec', 'colondb']
+25-03-12 22:13:20.376 - INFO: use_hsf = True
+25-03-12 22:50:37.712 - INFO:          bottle 		P-Auroc:86.58 	P-F1:53.60 	P-AP:52.68 	Aupro:13.56 	I-Auroc:95.56 	I-F1:95.16 	I-AP:98.66
+25-03-12 22:50:37.713 - INFO:           cable 		P-Auroc:77.37 	P-F1:17.49 	P-AP:11.56 	Aupro:6.98 	I-Auroc:63.97 	I-F1:76.03 	I-AP:79.12
+25-03-12 22:50:37.713 - INFO:         capsule 		P-Auroc:91.07 	P-F1:27.93 	P-AP:22.45 	Aupro:18.50 	I-Auroc:85.30 	I-F1:91.85 	I-AP:96.86
+25-03-12 22:50:37.713 - INFO:          carpet 		P-Auroc:89.40 	P-F1:54.01 	P-AP:50.57 	Aupro:23.06 	I-Auroc:99.96 	I-F1:99.44 	I-AP:99.99
+25-03-12 22:50:37.713 - INFO:            grid 		P-Auroc:86.45 	P-F1:35.95 	P-AP:25.02 	Aupro:3.50 	I-Auroc:95.66 	I-F1:93.81 	I-AP:98.57
+25-03-12 22:50:37.713 - INFO:        hazelnut 		P-Auroc:98.51 	P-F1:60.37 	P-AP:66.54 	Aupro:40.39 	I-Auroc:95.64 	I-F1:92.09 	I-AP:97.89
+25-03-12 22:50:37.713 - INFO:         leather 		P-Auroc:98.94 	P-F1:56.27 	P-AP:56.98 	Aupro:27.30 	I-Auroc:99.90 	I-F1:99.46 	I-AP:99.96
+25-03-12 22:50:37.713 - INFO:       metal_nut 		P-Auroc:62.19 	P-F1:25.91 	P-AP:19.60 	Aupro:4.76 	I-Auroc:81.26 	I-F1:89.42 	I-AP:95.84
+25-03-12 22:50:37.713 - INFO:            pill 		P-Auroc:82.51 	P-F1:30.00 	P-AP:24.49 	Aupro:12.22 	I-Auroc:90.21 	I-F1:93.99 	I-AP:97.92
+25-03-12 22:50:37.713 - INFO:           screw 		P-Auroc:98.55 	P-F1:31.78 	P-AP:24.61 	Aupro:36.00 	I-Auroc:86.52 	I-F1:90.04 	I-AP:94.38
+25-03-12 22:50:37.713 - INFO:            tile 		P-Auroc:85.91 	P-F1:53.23 	P-AP:51.11 	Aupro:1.47 	I-Auroc:100.00 	I-F1:100.00 	I-AP:100.00
+25-03-12 22:50:37.713 - INFO:      toothbrush 		P-Auroc:96.61 	P-F1:40.92 	P-AP:37.67 	Aupro:23.09 	I-Auroc:83.33 	I-F1:88.24 	I-AP:93.57
+25-03-12 22:50:37.714 - INFO:      transistor 		P-Auroc:67.83 	P-F1:19.02 	P-AP:10.31 	Aupro:2.89 	I-Auroc:79.27 	I-F1:70.21 	I-AP:75.97
+25-03-12 22:50:37.714 - INFO:            wood 		P-Auroc:90.49 	P-F1:51.20 	P-AP:49.74 	Aupro:8.25 	I-Auroc:98.68 	I-F1:97.48 	I-AP:99.59
+25-03-12 22:50:37.714 - INFO:          zipper 		P-Auroc:69.34 	P-F1:21.08 	P-AP:14.87 	Aupro:2.39 	I-Auroc:86.67 	I-F1:91.41 	I-AP:96.18
+25-03-12 22:50:37.714 - INFO:         Average 		P-Auroc:85.45 	P-F1:38.58 	P-AP:34.55 	Aupro:14.96 	I-Auroc:89.46 	I-F1:91.24 	I-AP:94.97
+25-03-12 22:50:43.292 - INFO: batch_size = 1
+25-03-12 22:50:43.292 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/origin/models/['mvtec']_4.pth
+25-03-12 22:50:43.292 - INFO: class_name = candle
+25-03-12 22:50:43.292 - INFO: exclude_dataset_name = 
+25-03-12 22:50:43.293 - INFO: image_path = asset/img.png
+25-03-12 22:50:43.293 - INFO: image_size = 518
+25-03-12 22:50:43.293 - INFO: k_clusters = 20
+25-03-12 22:50:43.293 - INFO: model = ViT-L-14-336
+25-03-12 22:50:43.293 - INFO: prompting_branch = VL
+25-03-12 22:50:43.293 - INFO: prompting_depth = 4
+25-03-12 22:50:43.293 - INFO: prompting_length = 5
+25-03-12 22:50:43.293 - INFO: prompting_type = SD
+25-03-12 22:50:43.293 - INFO: save_fig = True
+25-03-12 22:50:43.293 - INFO: save_name = test.png
+25-03-12 22:50:43.293 - INFO: save_path = ./workspaces/results
+25-03-12 22:50:43.293 - INFO: testing_data = realiad
+25-03-12 22:50:43.293 - INFO: testing_model = dataset
+25-03-12 22:50:43.293 - INFO: training_data = ['mvtec', 'colondb']
+25-03-12 22:50:43.294 - INFO: use_hsf = True
+25-03-13 06:08:19.051 - INFO:       audiojack 		P-Auroc:98.53 	P-F1:49.07 	P-AP:45.82 	Aupro:61.35 	I-Auroc:74.43 	I-F1:61.96 	I-AP:65.06
+25-03-13 06:08:19.069 - INFO:      bottle_cap 		P-Auroc:98.35 	P-F1:17.18 	P-AP:11.97 	Aupro:53.44 	I-Auroc:86.89 	I-F1:76.70 	I-AP:82.88
+25-03-13 06:08:19.069 - INFO:  button_battery 		P-Auroc:96.45 	P-F1:36.10 	P-AP:35.82 	Aupro:55.63 	I-Auroc:80.70 	I-F1:78.57 	I-AP:86.89
+25-03-13 06:08:19.069 - INFO:         end_cap 		P-Auroc:96.65 	P-F1:21.62 	P-AP:14.53 	Aupro:11.59 	I-Auroc:60.24 	I-F1:74.71 	I-AP:67.93
+25-03-13 06:08:19.070 - INFO:          eraser 		P-Auroc:99.58 	P-F1:59.08 	P-AP:60.83 	Aupro:81.26 	I-Auroc:69.53 	I-F1:61.59 	I-AP:59.49
+25-03-13 06:08:19.070 - INFO:       fire_hood 		P-Auroc:99.46 	P-F1:51.97 	P-AP:52.64 	Aupro:85.32 	I-Auroc:87.46 	I-F1:70.89 	I-AP:70.66
+25-03-13 06:08:19.070 - INFO:            mint 		P-Auroc:98.15 	P-F1:43.21 	P-AP:39.54 	Aupro:8.33 	I-Auroc:66.82 	I-F1:75.22 	I-AP:76.44
+25-03-13 06:08:19.070 - INFO:          mounts 		P-Auroc:99.87 	P-F1:56.90 	P-AP:59.43 	Aupro:61.42 	I-Auroc:89.96 	I-F1:80.85 	I-AP:77.82
+25-03-13 06:08:19.070 - INFO:             pcb 		P-Auroc:96.49 	P-F1:30.59 	P-AP:24.29 	Aupro:67.68 	I-Auroc:79.73 	I-F1:80.28 	I-AP:85.90
+25-03-13 06:08:19.070 - INFO:   phone_battery 		P-Auroc:97.99 	P-F1:57.00 	P-AP:55.58 	Aupro:82.30 	I-Auroc:76.85 	I-F1:68.62 	I-AP:77.55
+25-03-13 06:08:19.070 - INFO:     plastic_nut 		P-Auroc:97.33 	P-F1:36.15 	P-AP:36.25 	Aupro:19.60 	I-Auroc:83.64 	I-F1:59.92 	I-AP:63.39
+25-03-13 06:08:19.071 - INFO:    plastic_plug 		P-Auroc:98.65 	P-F1:42.24 	P-AP:34.91 	Aupro:49.62 	I-Auroc:82.83 	I-F1:73.50 	I-AP:83.58
+25-03-13 06:08:19.071 - INFO:  porcelain_doll 		P-Auroc:99.47 	P-F1:36.73 	P-AP:35.67 	Aupro:33.51 	I-Auroc:92.01 	I-F1:80.09 	I-AP:89.21
+25-03-13 06:08:19.071 - INFO:       regulator 		P-Auroc:95.55 	P-F1:7.33 	P-AP:3.24 	Aupro:26.18 	I-Auroc:71.99 	I-F1:37.27 	I-AP:39.61
+25-03-13 06:08:19.071 - INFO: rolled_strip_base 		P-Auroc:99.36 	P-F1:55.31 	P-AP:53.79 	Aupro:84.45 	I-Auroc:90.24 	I-F1:88.43 	I-AP:95.04
+25-03-13 06:08:19.071 - INFO:    sim_card_set 		P-Auroc:99.75 	P-F1:67.36 	P-AP:72.86 	Aupro:60.53 	I-Auroc:90.83 	I-F1:86.59 	I-AP:93.07
+25-03-13 06:08:19.071 - INFO:          switch 		P-Auroc:86.18 	P-F1:17.61 	P-AP:11.84 	Aupro:26.48 	I-Auroc:86.71 	I-F1:85.38 	I-AP:92.63
+25-03-13 06:08:19.071 - INFO:            tape 		P-Auroc:99.79 	P-F1:52.16 	P-AP:52.21 	Aupro:47.23 	I-Auroc:97.47 	I-F1:91.93 	I-AP:97.09
+25-03-13 06:08:19.072 - INFO:   terminalblock 		P-Auroc:98.77 	P-F1:55.72 	P-AP:55.37 	Aupro:60.22 	I-Auroc:84.57 	I-F1:80.42 	I-AP:88.22
+25-03-13 06:08:19.072 - INFO:      toothbrush 		P-Auroc:98.32 	P-F1:46.57 	P-AP:42.73 	Aupro:52.37 	I-Auroc:77.49 	I-F1:80.86 	I-AP:84.48
+25-03-13 06:08:19.072 - INFO:       toy_brick 		P-Auroc:98.94 	P-F1:38.29 	P-AP:34.59 	Aupro:75.75 	I-Auroc:64.84 	I-F1:62.66 	I-AP:50.67
+25-03-13 06:08:19.072 - INFO:             toy 		P-Auroc:80.58 	P-F1:30.33 	P-AP:20.47 	Aupro:39.40 	I-Auroc:54.09 	I-F1:80.13 	I-AP:70.32
+25-03-13 06:08:19.072 - INFO:     transistor1 		P-Auroc:92.33 	P-F1:30.16 	P-AP:22.88 	Aupro:71.85 	I-Auroc:66.31 	I-F1:79.15 	I-AP:78.16
+25-03-13 06:08:19.073 - INFO:         u_block 		P-Auroc:97.81 	P-F1:53.99 	P-AP:52.67 	Aupro:51.73 	I-Auroc:75.89 	I-F1:52.55 	I-AP:56.65
+25-03-13 06:08:19.073 - INFO:     usb_adaptor 		P-Auroc:96.78 	P-F1:31.46 	P-AP:24.52 	Aupro:20.02 	I-Auroc:81.89 	I-F1:73.14 	I-AP:80.63
+25-03-13 06:08:19.073 - INFO:             usb 		P-Auroc:98.47 	P-F1:44.83 	P-AP:38.29 	Aupro:46.61 	I-Auroc:83.35 	I-F1:74.92 	I-AP:82.39
+25-03-13 06:08:19.073 - INFO:          vcpill 		P-Auroc:97.24 	P-F1:54.07 	P-AP:54.06 	Aupro:75.76 	I-Auroc:60.52 	I-F1:51.94 	I-AP:49.97
+25-03-13 06:08:19.073 - INFO:    wooden_beads 		P-Auroc:97.26 	P-F1:20.66 	P-AP:12.88 	Aupro:42.30 	I-Auroc:70.87 	I-F1:72.27 	I-AP:78.49
+25-03-13 06:08:19.073 - INFO:       woodstick 		P-Auroc:99.45 	P-F1:61.13 	P-AP:66.40 	Aupro:79.25 	I-Auroc:77.60 	I-F1:51.67 	I-AP:42.33
+25-03-13 06:08:19.074 - INFO:          zipper 		P-Auroc:97.14 	P-F1:37.14 	P-AP:33.60 	Aupro:67.70 	I-Auroc:97.90 	I-F1:95.34 	I-AP:98.97
+25-03-13 06:08:19.074 - INFO:         Average 		P-Auroc:97.02 	P-F1:41.40 	P-AP:38.66 	Aupro:53.30 	I-Auroc:78.79 	I-F1:72.92 	I-AP:75.52
+25-03-13 09:18:46.919 - INFO: batch_size = 1
+25-03-13 09:18:46.919 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/['atciad']-mvtec/models/['atciad']-mvtec_4.pth
+25-03-13 09:18:46.919 - INFO: class_name = candle
+25-03-13 09:18:46.919 - INFO: exclude_dataset_name = mvtec
+25-03-13 09:18:46.919 - INFO: image_path = asset/img.png
+25-03-13 09:18:46.919 - INFO: image_size = 518
+25-03-13 09:18:46.919 - INFO: k_clusters = 20
+25-03-13 09:18:46.919 - INFO: model = ViT-L-14-336
+25-03-13 09:18:46.919 - INFO: prompting_branch = VL
+25-03-13 09:18:46.920 - INFO: prompting_depth = 4
+25-03-13 09:18:46.920 - INFO: prompting_length = 5
+25-03-13 09:18:46.920 - INFO: prompting_type = SD
+25-03-13 09:18:46.920 - INFO: save_fig = False
+25-03-13 09:18:46.920 - INFO: save_name = test.png
+25-03-13 09:18:46.920 - INFO: save_path = ./workspaces
+25-03-13 09:18:46.920 - INFO: testing_data = visa
+25-03-13 09:18:46.920 - INFO: testing_model = dataset
+25-03-13 09:18:46.920 - INFO: training_data = ['atciad']
+25-03-13 09:18:46.920 - INFO: use_hsf = True
+25-03-13 10:00:35.327 - INFO:          candle 		P-Auroc:98.39 	P-F1:37.89 	P-AP:31.39 	Aupro:81.41 	I-Auroc:50.00 	I-F1:66.67 	I-AP:50.00
+25-03-13 10:00:35.327 - INFO:        capsules 		P-Auroc:98.03 	P-F1:56.87 	P-AP:55.13 	Aupro:31.49 	I-Auroc:50.00 	I-F1:76.92 	I-AP:62.50
+25-03-13 10:00:35.328 - INFO:          cashew 		P-Auroc:82.48 	P-F1:24.48 	P-AP:16.80 	Aupro:64.49 	I-Auroc:50.00 	I-F1:80.00 	I-AP:66.67
+25-03-13 10:00:35.328 - INFO:      chewinggum 		P-Auroc:99.74 	P-F1:80.40 	P-AP:87.80 	Aupro:41.52 	I-Auroc:50.00 	I-F1:80.00 	I-AP:66.67
+25-03-13 10:00:35.328 - INFO:           fryum 		P-Auroc:93.89 	P-F1:32.15 	P-AP:24.30 	Aupro:70.74 	I-Auroc:50.00 	I-F1:80.00 	I-AP:66.67
+25-03-13 10:00:35.328 - INFO:       macaroni1 		P-Auroc:99.01 	P-F1:33.55 	P-AP:24.12 	Aupro:67.12 	I-Auroc:50.00 	I-F1:66.67 	I-AP:50.00
+25-03-13 10:00:35.328 - INFO:       macaroni2 		P-Auroc:98.58 	P-F1:22.44 	P-AP:13.97 	Aupro:58.11 	I-Auroc:50.00 	I-F1:66.67 	I-AP:50.00
+25-03-13 10:00:35.328 - INFO:            pcb1 		P-Auroc:86.42 	P-F1:18.53 	P-AP:11.28 	Aupro:21.24 	I-Auroc:50.00 	I-F1:66.67 	I-AP:50.00
+25-03-13 10:00:35.328 - INFO:            pcb2 		P-Auroc:88.06 	P-F1:33.12 	P-AP:24.52 	Aupro:59.11 	I-Auroc:50.00 	I-F1:66.67 	I-AP:50.00
+25-03-13 10:00:35.328 - INFO:            pcb3 		P-Auroc:88.44 	P-F1:33.41 	P-AP:25.18 	Aupro:59.33 	I-Auroc:50.00 	I-F1:66.45 	I-AP:49.75
+25-03-13 10:00:35.328 - INFO:            pcb4 		P-Auroc:96.82 	P-F1:39.65 	P-AP:35.30 	Aupro:58.27 	I-Auroc:50.00 	I-F1:66.45 	I-AP:49.75
+25-03-13 10:00:35.329 - INFO:      pipe_fryum 		P-Auroc:96.87 	P-F1:34.54 	P-AP:25.55 	Aupro:74.17 	I-Auroc:50.00 	I-F1:80.00 	I-AP:66.67
+25-03-13 10:00:35.329 - INFO:         Average 		P-Auroc:93.89 	P-F1:37.25 	P-AP:31.28 	Aupro:57.25 	I-Auroc:50.00 	I-F1:71.93 	I-AP:56.56
+25-03-13 10:24:12.302 - INFO: batch_size = 1
+25-03-13 10:24:12.302 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/['atciad']-mvtec/models/['atciad']-mvtec_4.pth
+25-03-13 10:24:12.302 - INFO: class_name = candle
+25-03-13 10:24:12.302 - INFO: exclude_dataset_name = mvtec
+25-03-13 10:24:12.302 - INFO: image_path = asset/img.png
+25-03-13 10:24:12.302 - INFO: image_size = 518
+25-03-13 10:24:12.302 - INFO: k_clusters = 20
+25-03-13 10:24:12.302 - INFO: model = ViT-L-14-336
+25-03-13 10:24:12.302 - INFO: prompting_branch = VL
+25-03-13 10:24:12.303 - INFO: prompting_depth = 4
+25-03-13 10:24:12.303 - INFO: prompting_length = 5
+25-03-13 10:24:12.303 - INFO: prompting_type = SD
+25-03-13 10:24:12.303 - INFO: save_fig = True
+25-03-13 10:24:12.303 - INFO: save_name = test.png
+25-03-13 10:24:12.303 - INFO: save_path = ./workspaces/results
+25-03-13 10:24:12.303 - INFO: testing_data = mvtec
+25-03-13 10:24:12.303 - INFO: testing_model = dataset
+25-03-13 10:24:12.303 - INFO: training_data = ['atciad']
+25-03-13 10:24:12.303 - INFO: use_hsf = True
+25-03-13 10:36:42.206 - INFO: batch_size = 1
+25-03-13 10:36:42.206 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/['atciad']-mvtec/models/['atciad']-mvtec_4.pth
+25-03-13 10:36:42.206 - INFO: class_name = candle
+25-03-13 10:36:42.206 - INFO: exclude_dataset_name = mvtec
+25-03-13 10:36:42.206 - INFO: image_path = asset/img.png
+25-03-13 10:36:42.206 - INFO: image_size = 518
+25-03-13 10:36:42.207 - INFO: k_clusters = 20
+25-03-13 10:36:42.207 - INFO: model = ViT-L-14-336
+25-03-13 10:36:42.207 - INFO: prompting_branch = VL
+25-03-13 10:36:42.207 - INFO: prompting_depth = 4
+25-03-13 10:36:42.207 - INFO: prompting_length = 5
+25-03-13 10:36:42.207 - INFO: prompting_type = SD
+25-03-13 10:36:42.207 - INFO: save_fig = True
+25-03-13 10:36:42.207 - INFO: save_name = test.png
+25-03-13 10:36:42.207 - INFO: save_path = ./workspaces/results
+25-03-13 10:36:42.208 - INFO: testing_data = mvtec
+25-03-13 10:36:42.208 - INFO: testing_model = dataset
+25-03-13 10:36:42.208 - INFO: training_data = ['atciad']
+25-03-13 10:36:42.208 - INFO: use_hsf = True
+25-03-13 11:12:35.723 - INFO:          bottle 		P-Auroc:94.02 	P-F1:60.12 	P-AP:64.86 	Aupro:64.73 	I-Auroc:50.00 	I-F1:86.30 	I-AP:75.90
+25-03-13 11:12:35.723 - INFO:           cable 		P-Auroc:83.77 	P-F1:27.66 	P-AP:21.27 	Aupro:17.57 	I-Auroc:50.00 	I-F1:76.03 	I-AP:61.33
+25-03-13 11:12:35.723 - INFO:         capsule 		P-Auroc:95.24 	P-F1:33.50 	P-AP:33.02 	Aupro:82.94 	I-Auroc:50.00 	I-F1:90.46 	I-AP:82.58
+25-03-13 11:12:35.723 - INFO:          carpet 		P-Auroc:99.23 	P-F1:66.70 	P-AP:72.23 	Aupro:80.58 	I-Auroc:50.00 	I-F1:86.41 	I-AP:76.07
+25-03-13 11:12:35.723 - INFO:            grid 		P-Auroc:98.51 	P-F1:51.81 	P-AP:52.04 	Aupro:54.79 	I-Auroc:50.00 	I-F1:84.44 	I-AP:73.08
+25-03-13 11:12:35.723 - INFO:        hazelnut 		P-Auroc:95.80 	P-F1:48.05 	P-AP:49.86 	Aupro:54.32 	I-Auroc:50.00 	I-F1:77.78 	I-AP:63.64
+25-03-13 11:12:35.724 - INFO:         leather 		P-Auroc:99.77 	P-F1:68.27 	P-AP:76.28 	Aupro:84.89 	I-Auroc:50.00 	I-F1:85.19 	I-AP:74.19
+25-03-13 11:12:35.724 - INFO:       metal_nut 		P-Auroc:81.92 	P-F1:38.16 	P-AP:36.86 	Aupro:46.50 	I-Auroc:50.00 	I-F1:89.42 	I-AP:80.87
+25-03-13 11:12:35.724 - INFO:            pill 		P-Auroc:87.21 	P-F1:32.40 	P-AP:30.42 	Aupro:75.26 	I-Auroc:50.00 	I-F1:91.56 	I-AP:84.43
+25-03-13 11:12:35.724 - INFO:           screw 		P-Auroc:98.96 	P-F1:47.47 	P-AP:44.42 	Aupro:66.82 	I-Auroc:50.00 	I-F1:85.30 	I-AP:74.38
+25-03-13 11:12:35.724 - INFO:            tile 		P-Auroc:92.79 	P-F1:64.06 	P-AP:69.39 	Aupro:72.08 	I-Auroc:91.40 	I-F1:90.57 	I-AP:96.32
+25-03-13 11:12:35.724 - INFO:      toothbrush 		P-Auroc:92.99 	P-F1:35.98 	P-AP:30.36 	Aupro:46.82 	I-Auroc:50.00 	I-F1:83.33 	I-AP:71.43
+25-03-13 11:12:35.724 - INFO:      transistor 		P-Auroc:75.15 	P-F1:19.91 	P-AP:14.63 	Aupro:29.19 	I-Auroc:50.00 	I-F1:57.14 	I-AP:40.00
+25-03-13 11:12:35.724 - INFO:            wood 		P-Auroc:98.01 	P-F1:67.18 	P-AP:72.57 	Aupro:51.57 	I-Auroc:50.00 	I-F1:86.33 	I-AP:75.95
+25-03-13 11:12:35.724 - INFO:          zipper 		P-Auroc:96.69 	P-F1:56.34 	P-AP:55.36 	Aupro:58.43 	I-Auroc:50.00 	I-F1:88.15 	I-AP:78.81
+25-03-13 11:12:35.724 - INFO:         Average 		P-Auroc:92.67 	P-F1:47.84 	P-AP:48.24 	Aupro:59.10 	I-Auroc:52.76 	I-F1:83.89 	I-AP:73.93
+25-03-13 14:11:02.574 - INFO: batch_size = 1
+25-03-13 14:11:02.575 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/['atciad']-visa/models/['atciad']-visa_4.pth
+25-03-13 14:11:02.575 - INFO: class_name = candle
+25-03-13 14:11:02.575 - INFO: exclude_dataset_name = visa
+25-03-13 14:11:02.575 - INFO: image_path = asset/img.png
+25-03-13 14:11:02.575 - INFO: image_size = 518
+25-03-13 14:11:02.575 - INFO: k_clusters = 20
+25-03-13 14:11:02.575 - INFO: model = ViT-L-14-336
+25-03-13 14:11:02.575 - INFO: prompting_branch = VL
+25-03-13 14:11:02.575 - INFO: prompting_depth = 4
+25-03-13 14:11:02.575 - INFO: prompting_length = 5
+25-03-13 14:11:02.575 - INFO: prompting_type = SD
+25-03-13 14:11:02.575 - INFO: save_fig = True
+25-03-13 14:11:02.575 - INFO: save_name = test.png
+25-03-13 14:11:02.576 - INFO: save_path = ./workspaces/results
+25-03-13 14:11:02.576 - INFO: testing_data = visa
+25-03-13 14:11:02.576 - INFO: testing_model = dataset
+25-03-13 14:11:02.576 - INFO: training_data = ['atciad']
+25-03-13 14:11:02.576 - INFO: use_hsf = True
+25-03-13 14:20:59.840 - INFO: batch_size = 1
+25-03-13 14:20:59.840 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/['atciad']-mvtec/models/['atciad']-mvtec_4.pth
+25-03-13 14:20:59.841 - INFO: class_name = candle
+25-03-13 14:20:59.841 - INFO: exclude_dataset_name = mvtec
+25-03-13 14:20:59.841 - INFO: image_path = asset/img.png
+25-03-13 14:20:59.841 - INFO: image_size = 518
+25-03-13 14:20:59.842 - INFO: k_clusters = 20
+25-03-13 14:20:59.842 - INFO: model = ViT-L-14-336
+25-03-13 14:20:59.842 - INFO: prompting_branch = VL
+25-03-13 14:20:59.842 - INFO: prompting_depth = 4
+25-03-13 14:20:59.843 - INFO: prompting_length = 5
+25-03-13 14:20:59.843 - INFO: prompting_type = SD
+25-03-13 14:20:59.843 - INFO: save_fig = True
+25-03-13 14:20:59.843 - INFO: save_name = test.png
+25-03-13 14:20:59.844 - INFO: save_path = ./workspaces/results
+25-03-13 14:20:59.844 - INFO: testing_data = mvtec
+25-03-13 14:20:59.844 - INFO: testing_model = dataset
+25-03-13 14:20:59.844 - INFO: training_data = ['atciad']
+25-03-13 14:20:59.844 - INFO: use_hsf = True
+25-03-13 14:52:24.239 - INFO:          candle 		P-Auroc:97.38 	P-F1:21.17 	P-AP:15.36 	Aupro:77.05 	I-Auroc:50.00 	I-F1:66.67 	I-AP:50.00
+25-03-13 14:52:24.240 - INFO:        capsules 		P-Auroc:98.49 	P-F1:55.05 	P-AP:50.53 	Aupro:62.48 	I-Auroc:50.00 	I-F1:76.92 	I-AP:62.50
+25-03-13 14:52:24.240 - INFO:          cashew 		P-Auroc:92.69 	P-F1:26.02 	P-AP:20.48 	Aupro:63.64 	I-Auroc:50.00 	I-F1:80.00 	I-AP:66.67
+25-03-13 14:52:24.240 - INFO:      chewinggum 		P-Auroc:99.72 	P-F1:78.02 	P-AP:86.14 	Aupro:44.25 	I-Auroc:50.00 	I-F1:80.00 	I-AP:66.67
+25-03-13 14:52:24.240 - INFO:           fryum 		P-Auroc:90.56 	P-F1:25.69 	P-AP:17.99 	Aupro:69.53 	I-Auroc:50.00 	I-F1:80.00 	I-AP:66.67
+25-03-13 14:52:24.240 - INFO:       macaroni1 		P-Auroc:99.53 	P-F1:35.72 	P-AP:27.99 	Aupro:40.77 	I-Auroc:50.00 	I-F1:66.67 	I-AP:50.00
+25-03-13 14:52:24.240 - INFO:       macaroni2 		P-Auroc:98.21 	P-F1:14.67 	P-AP:6.17 	Aupro:25.41 	I-Auroc:50.00 	I-F1:66.67 	I-AP:50.00
+25-03-13 14:52:24.241 - INFO:            pcb1 		P-Auroc:78.20 	P-F1:14.53 	P-AP:7.57 	Aupro:57.32 	I-Auroc:50.00 	I-F1:66.67 	I-AP:50.00
+25-03-13 14:52:24.241 - INFO:            pcb2 		P-Auroc:85.11 	P-F1:31.11 	P-AP:21.92 	Aupro:55.00 	I-Auroc:50.00 	I-F1:66.67 	I-AP:50.00
+25-03-13 14:52:24.241 - INFO:            pcb3 		P-Auroc:87.53 	P-F1:28.07 	P-AP:19.79 	Aupro:47.79 	I-Auroc:50.00 	I-F1:66.45 	I-AP:49.75
+25-03-13 14:52:24.241 - INFO:            pcb4 		P-Auroc:92.82 	P-F1:25.12 	P-AP:21.65 	Aupro:44.94 	I-Auroc:50.00 	I-F1:66.45 	I-AP:49.75
+25-03-13 14:52:24.241 - INFO:      pipe_fryum 		P-Auroc:92.77 	P-F1:29.63 	P-AP:20.64 	Aupro:77.05 	I-Auroc:50.00 	I-F1:80.00 	I-AP:66.67
+25-03-13 14:52:24.241 - INFO:         Average 		P-Auroc:92.75 	P-F1:32.07 	P-AP:26.35 	Aupro:55.43 	I-Auroc:50.00 	I-F1:71.93 	I-AP:56.56
+25-03-13 14:56:24.283 - INFO: batch_size = 1
+25-03-13 14:56:24.284 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/['atciad']-mvtec/models/['atciad']-mvtec_4.pth
+25-03-13 14:56:24.284 - INFO: class_name = candle
+25-03-13 14:56:24.284 - INFO: exclude_dataset_name = mvtec
+25-03-13 14:56:24.284 - INFO: image_path = asset/img.png
+25-03-13 14:56:24.285 - INFO: image_size = 518
+25-03-13 14:56:24.285 - INFO: k_clusters = 20
+25-03-13 14:56:24.285 - INFO: model = ViT-L-14-336
+25-03-13 14:56:24.285 - INFO: prompting_branch = VL
+25-03-13 14:56:24.286 - INFO: prompting_depth = 4
+25-03-13 14:56:24.286 - INFO: prompting_length = 5
+25-03-13 14:56:24.286 - INFO: prompting_type = SD
+25-03-13 14:56:24.286 - INFO: save_fig = True
+25-03-13 14:56:24.287 - INFO: save_name = test.png
+25-03-13 14:56:24.287 - INFO: save_path = ./workspaces/results
+25-03-13 14:56:24.287 - INFO: testing_data = mvtec
+25-03-13 14:56:24.287 - INFO: testing_model = dataset
+25-03-13 14:56:24.287 - INFO: training_data = ['atciad']
+25-03-13 14:56:24.288 - INFO: use_hsf = True
+25-03-31 12:49:56.840 - INFO: batch_size = 1
+25-03-31 12:49:56.841 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/without_training/without_training_0.pth
+25-03-31 12:49:56.841 - INFO: class_name = candle
+25-03-31 12:49:56.841 - INFO: exclude_dataset_name = 
+25-03-31 12:49:56.841 - INFO: image_path = asset/img.png
+25-03-31 12:49:56.841 - INFO: image_size = 518
+25-03-31 12:49:56.841 - INFO: k_clusters = 20
+25-03-31 12:49:56.841 - INFO: model = ViT-L-14-336
+25-03-31 12:49:56.842 - INFO: prompting_branch = VL
+25-03-31 12:49:56.842 - INFO: prompting_depth = 4
+25-03-31 12:49:56.842 - INFO: prompting_length = 5
+25-03-31 12:49:56.842 - INFO: prompting_type = SD
+25-03-31 12:49:56.842 - INFO: save_fig = True
+25-03-31 12:49:56.842 - INFO: save_name = test.png
+25-03-31 12:49:56.842 - INFO: save_path = ./workspaces/results/visa_without_training
+25-03-31 12:49:56.842 - INFO: testing_data = visa
+25-03-31 12:49:56.842 - INFO: testing_model = dataset
+25-03-31 12:49:56.842 - INFO: training_data = ['mvtec', 'colondb']
+25-03-31 12:49:56.842 - INFO: use_hsf = True
+25-03-31 13:37:37.983 - INFO:          candle 		P-Auroc:35.75 	P-F1:0.27 	P-AP:0.10 	Aupro:3.30 	I-Auroc:46.00 	I-F1:66.67 	I-AP:48.09
+25-03-31 13:37:37.985 - INFO:        capsules 		P-Auroc:16.54 	P-F1:0.68 	P-AP:0.19 	Aupro:0.35 	I-Auroc:51.88 	I-F1:77.22 	I-AP:67.51
+25-03-31 13:37:37.986 - INFO:          cashew 		P-Auroc:29.83 	P-F1:2.23 	P-AP:0.76 	Aupro:4.17 	I-Auroc:46.60 	I-F1:80.00 	I-AP:69.22
+25-03-31 13:37:37.986 - INFO:      chewinggum 		P-Auroc:55.54 	P-F1:1.79 	P-AP:0.73 	Aupro:12.92 	I-Auroc:4.86 	I-F1:80.00 	I-AP:46.95
+25-03-31 13:37:37.986 - INFO:           fryum 		P-Auroc:24.43 	P-F1:4.50 	P-AP:1.38 	Aupro:0.17 	I-Auroc:32.23 	I-F1:80.00 	I-AP:57.65
+25-03-31 13:37:37.986 - INFO:       macaroni1 		P-Auroc:14.75 	P-F1:0.07 	P-AP:0.02 	Aupro:0.00 	I-Auroc:42.59 	I-F1:66.67 	I-AP:44.47
+25-03-31 13:37:37.987 - INFO:       macaroni2 		P-Auroc:12.92 	P-F1:0.06 	P-AP:0.02 	Aupro:0.06 	I-Auroc:40.23 	I-F1:66.89 	I-AP:42.61
+25-03-31 13:37:37.987 - INFO:            pcb1 		P-Auroc:31.80 	P-F1:0.93 	P-AP:0.31 	Aupro:1.34 	I-Auroc:27.18 	I-F1:66.67 	I-AP:39.13
+25-03-31 13:37:37.987 - INFO:            pcb2 		P-Auroc:28.71 	P-F1:0.45 	P-AP:0.18 	Aupro:4.20 	I-Auroc:31.35 	I-F1:66.67 	I-AP:39.26
+25-03-31 13:37:37.987 - INFO:            pcb3 		P-Auroc:26.84 	P-F1:0.50 	P-AP:0.15 	Aupro:1.42 	I-Auroc:53.72 	I-F1:66.67 	I-AP:56.51
+25-03-31 13:37:37.987 - INFO:            pcb4 		P-Auroc:22.03 	P-F1:1.31 	P-AP:0.38 	Aupro:0.55 	I-Auroc:37.24 	I-F1:66.45 	I-AP:42.64
+25-03-31 13:37:37.988 - INFO:      pipe_fryum 		P-Auroc:36.65 	P-F1:2.46 	P-AP:0.93 	Aupro:2.19 	I-Auroc:36.89 	I-F1:80.00 	I-AP:64.23
+25-03-31 13:37:37.988 - INFO:         Average 		P-Auroc:27.98 	P-F1:1.27 	P-AP:0.43 	Aupro:2.56 	I-Auroc:37.56 	I-F1:71.99 	I-AP:51.52
+25-03-31 14:23:53.488 - INFO: batch_size = 1
+25-03-31 14:23:53.488 - INFO: ckt_path = /home/dell/wgp/AdaCLIP/workspaces/without_training/without_training_0.pth
+25-03-31 14:23:53.488 - INFO: class_name = candle
+25-03-31 14:23:53.488 - INFO: exclude_dataset_name = 
+25-03-31 14:23:53.489 - INFO: image_path = asset/img.png
+25-03-31 14:23:53.489 - INFO: image_size = 518
+25-03-31 14:23:53.489 - INFO: k_clusters = 20
+25-03-31 14:23:53.489 - INFO: model = ViT-L-14-336
+25-03-31 14:23:53.489 - INFO: prompting_branch = VL
+25-03-31 14:23:53.489 - INFO: prompting_depth = 4
+25-03-31 14:23:53.489 - INFO: prompting_length = 5
+25-03-31 14:23:53.489 - INFO: prompting_type = SD
+25-03-31 14:23:53.489 - INFO: save_fig = True
+25-03-31 14:23:53.489 - INFO: save_name = test.png
+25-03-31 14:23:53.489 - INFO: save_path = ./workspaces/results/mvtec_without_training
+25-03-31 14:23:53.489 - INFO: testing_data = mvtec
+25-03-31 14:23:53.489 - INFO: testing_model = dataset
+25-03-31 14:23:53.490 - INFO: training_data = ['mvtec', 'colondb']
+25-03-31 14:23:53.490 - INFO: use_hsf = True
+25-03-31 15:02:22.042 - INFO:          bottle 		P-Auroc:29.42 	P-F1:10.93 	P-AP:3.76 	Aupro:5.32 	I-Auroc:26.83 	I-F1:86.30 	I-AP:66.46
+25-03-31 15:02:22.053 - INFO:           cable 		P-Auroc:35.61 	P-F1:5.58 	P-AP:2.23 	Aupro:9.87 	I-Auroc:76.71 	I-F1:81.16 	I-AP:83.40
+25-03-31 15:02:22.054 - INFO:         capsule 		P-Auroc:41.79 	P-F1:1.81 	P-AP:0.75 	Aupro:9.34 	I-Auroc:35.54 	I-F1:90.46 	I-AP:78.47
+25-03-31 15:02:22.054 - INFO:          carpet 		P-Auroc:39.29 	P-F1:3.15 	P-AP:1.28 	Aupro:13.51 	I-Auroc:26.75 	I-F1:86.41 	I-AP:71.34
+25-03-31 15:02:22.054 - INFO:            grid 		P-Auroc:44.88 	P-F1:3.44 	P-AP:1.02 	Aupro:16.02 	I-Auroc:53.01 	I-F1:84.44 	I-AP:78.03
+25-03-31 15:02:22.055 - INFO:        hazelnut 		P-Auroc:19.74 	P-F1:4.18 	P-AP:1.21 	Aupro:0.83 	I-Auroc:29.00 	I-F1:77.78 	I-AP:57.17
+25-03-31 15:02:22.055 - INFO:         leather 		P-Auroc:35.11 	P-F1:1.29 	P-AP:0.45 	Aupro:6.65 	I-Auroc:16.46 	I-F1:85.19 	I-AP:60.99
+25-03-31 15:02:22.055 - INFO:       metal_nut 		P-Auroc:60.93 	P-F1:26.27 	P-AP:21.19 	Aupro:15.04 	I-Auroc:48.92 	I-F1:89.42 	I-AP:80.33
+25-03-31 15:02:22.055 - INFO:            pill 		P-Auroc:17.79 	P-F1:6.50 	P-AP:1.89 	Aupro:0.02 	I-Auroc:46.33 	I-F1:91.56 	I-AP:86.91
+25-03-31 15:02:22.055 - INFO:           screw 		P-Auroc:32.67 	P-F1:0.50 	P-AP:0.17 	Aupro:7.28 	I-Auroc:60.91 	I-F1:85.30 	I-AP:81.28
+25-03-31 15:02:22.056 - INFO:            tile 		P-Auroc:42.57 	P-F1:13.15 	P-AP:6.05 	Aupro:11.13 	I-Auroc:50.32 	I-F1:83.58 	I-AP:76.38
+25-03-31 15:02:22.056 - INFO:      toothbrush 		P-Auroc:51.55 	P-F1:6.65 	P-AP:3.15 	Aupro:5.49 	I-Auroc:64.86 	I-F1:84.06 	I-AP:84.48
+25-03-31 15:02:22.056 - INFO:      transistor 		P-Auroc:57.16 	P-F1:11.19 	P-AP:6.65 	Aupro:11.60 	I-Auroc:68.71 	I-F1:63.64 	I-AP:67.50
+25-03-31 15:02:22.056 - INFO:            wood 		P-Auroc:34.76 	P-F1:7.44 	P-AP:2.70 	Aupro:4.46 	I-Auroc:78.68 	I-F1:87.22 	I-AP:93.29
+25-03-31 15:02:22.057 - INFO:          zipper 		P-Auroc:14.18 	P-F1:4.05 	P-AP:1.11 	Aupro:1.75 	I-Auroc:38.48 	I-F1:88.15 	I-AP:75.33
+25-03-31 15:02:22.057 - INFO:         Average 		P-Auroc:37.16 	P-F1:7.08 	P-AP:3.57 	Aupro:7.89 	I-Auroc:48.10 	I-F1:84.31 	I-AP:76.09
+25-06-24 20:19:59.757 - INFO: batch_size = 1
+25-06-24 20:19:59.757 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_extended/origin/models/['mvtec']_5.pth
+25-06-24 20:19:59.757 - INFO: class_name = candle
+25-06-24 20:19:59.757 - INFO: exclude_dataset_name = 
+25-06-24 20:19:59.757 - INFO: image_path = asset/img.png
+25-06-24 20:19:59.757 - INFO: image_size = 518
+25-06-24 20:19:59.757 - INFO: k_clusters = 20
+25-06-24 20:19:59.757 - INFO: model = ViT-L-14-336
+25-06-24 20:19:59.758 - INFO: prompting_branch = VL
+25-06-24 20:19:59.758 - INFO: prompting_depth = 4
+25-06-24 20:19:59.758 - INFO: prompting_length = 5
+25-06-24 20:19:59.758 - INFO: prompting_type = SD
+25-06-24 20:19:59.758 - INFO: save_fig = True
+25-06-24 20:19:59.758 - INFO: save_name = test.png
+25-06-24 20:19:59.758 - INFO: save_path = ./workspaces/results/test_visa_origin_train_mvtec_zsad_extended
+25-06-24 20:19:59.758 - INFO: testing_data = visa
+25-06-24 20:19:59.758 - INFO: testing_model = dataset
+25-06-24 20:19:59.758 - INFO: training_data = ['mvtec', 'colondb']
+25-06-24 20:19:59.758 - INFO: use_hsf = True
+25-06-24 20:20:35.187 - INFO: batch_size = 1
+25-06-24 20:20:35.187 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_common_sense/origin/models/['mvtec']_5.pth
+25-06-24 20:20:35.187 - INFO: class_name = candle
+25-06-24 20:20:35.187 - INFO: exclude_dataset_name = 
+25-06-24 20:20:35.187 - INFO: image_path = asset/img.png
+25-06-24 20:20:35.187 - INFO: image_size = 518
+25-06-24 20:20:35.187 - INFO: k_clusters = 20
+25-06-24 20:20:35.187 - INFO: model = ViT-L-14-336
+25-06-24 20:20:35.187 - INFO: prompting_branch = VL
+25-06-24 20:20:35.187 - INFO: prompting_depth = 4
+25-06-24 20:20:35.188 - INFO: prompting_length = 5
+25-06-24 20:20:35.188 - INFO: prompting_type = SD
+25-06-24 20:20:35.188 - INFO: save_fig = True
+25-06-24 20:20:35.188 - INFO: save_name = test.png
+25-06-24 20:20:35.188 - INFO: save_path = ./workspaces/results/test_visa_origin_train_mvtec_zsad_common_sense
+25-06-24 20:20:35.188 - INFO: testing_data = visa
+25-06-24 20:20:35.188 - INFO: testing_model = dataset
+25-06-24 20:20:35.188 - INFO: training_data = ['mvtec', 'colondb']
+25-06-24 20:20:35.188 - INFO: use_hsf = True
+25-06-24 20:24:11.324 - INFO: batch_size = 1
+25-06-24 20:24:11.324 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_origin/origin/models/['mvtec']_5.pth
+25-06-24 20:24:11.325 - INFO: class_name = candle
+25-06-24 20:24:11.325 - INFO: exclude_dataset_name = 
+25-06-24 20:24:11.325 - INFO: image_path = asset/img.png
+25-06-24 20:24:11.325 - INFO: image_size = 518
+25-06-24 20:24:11.325 - INFO: k_clusters = 20
+25-06-24 20:24:11.325 - INFO: model = ViT-L-14-336
+25-06-24 20:24:11.325 - INFO: prompting_branch = VL
+25-06-24 20:24:11.325 - INFO: prompting_depth = 4
+25-06-24 20:24:11.325 - INFO: prompting_length = 5
+25-06-24 20:24:11.325 - INFO: prompting_type = SD
+25-06-24 20:24:11.325 - INFO: save_fig = True
+25-06-24 20:24:11.325 - INFO: save_name = test.png
+25-06-24 20:24:11.325 - INFO: save_path = ./workspaces/results/test_visa_zsad_common_sense_train_mvtec_origin
+25-06-24 20:24:11.326 - INFO: testing_data = visa
+25-06-24 20:24:11.326 - INFO: testing_model = dataset
+25-06-24 20:24:11.326 - INFO: training_data = ['mvtec', 'colondb']
+25-06-24 20:24:11.326 - INFO: use_hsf = True
+25-06-24 20:59:57.149 - INFO:          candle 		P-Auroc:99.13 	P-F1:43.94 	P-AP:38.52 	Aupro:88.85 	I-Auroc:94.12 	I-F1:90.79 	I-AP:95.80
+25-06-24 20:59:57.150 - INFO:        capsules 		P-Auroc:96.30 	P-F1:34.59 	P-AP:24.60 	Aupro:73.91 	I-Auroc:60.78 	I-F1:66.67 	I-AP:70.26
+25-06-24 20:59:57.150 - INFO:          cashew 		P-Auroc:99.26 	P-F1:58.48 	P-AP:59.39 	Aupro:76.13 	I-Auroc:88.91 	I-F1:80.99 	I-AP:91.28
+25-06-24 20:59:57.150 - INFO:      chewinggum 		P-Auroc:99.83 	P-F1:77.87 	P-AP:86.48 	Aupro:52.33 	I-Auroc:98.28 	I-F1:95.79 	I-AP:98.78
+25-06-24 20:59:57.150 - INFO:           fryum 		P-Auroc:95.95 	P-F1:30.53 	P-AP:23.87 	Aupro:64.09 	I-Auroc:87.65 	I-F1:81.94 	I-AP:90.97
+25-06-24 20:59:57.150 - INFO:       macaroni1 		P-Auroc:99.65 	P-F1:40.53 	P-AP:33.40 	Aupro:96.42 	I-Auroc:84.47 	I-F1:79.80 	I-AP:85.57
+25-06-24 20:59:57.150 - INFO:       macaroni2 		P-Auroc:98.82 	P-F1:14.41 	P-AP:6.05 	Aupro:90.63 	I-Auroc:45.25 	I-F1:67.37 	I-AP:47.29
+25-06-24 20:59:57.150 - INFO:            pcb1 		P-Auroc:97.80 	P-F1:14.28 	P-AP:7.22 	Aupro:84.94 	I-Auroc:46.81 	I-F1:67.47 	I-AP:59.36
+25-06-24 20:59:57.150 - INFO:            pcb2 		P-Auroc:97.87 	P-F1:38.34 	P-AP:26.75 	Aupro:88.65 	I-Auroc:63.58 	I-F1:66.67 	I-AP:73.32
+25-06-24 20:59:57.150 - INFO:            pcb3 		P-Auroc:98.15 	P-F1:38.94 	P-AP:31.32 	Aupro:86.80 	I-Auroc:79.94 	I-F1:77.19 	I-AP:82.51
+25-06-24 20:59:57.150 - INFO:      pipe_fryum 		P-Auroc:99.43 	P-F1:43.62 	P-AP:42.49 	Aupro:89.54 	I-Auroc:93.54 	I-F1:88.27 	I-AP:94.15
+25-06-24 20:59:57.150 - INFO:         Average 		P-Auroc:98.38 	P-F1:39.60 	P-AP:34.55 	Aupro:81.12 	I-Auroc:76.67 	I-F1:78.45 	I-AP:80.85
+25-06-24 21:08:16.421 - INFO: batch_size = 1
+25-06-24 21:08:16.422 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_extended/origin/models/['mvtec']_5.pth
+25-06-24 21:08:16.422 - INFO: class_name = candle
+25-06-24 21:08:16.422 - INFO: exclude_dataset_name = 
+25-06-24 21:08:16.422 - INFO: image_path = asset/img.png
+25-06-24 21:08:16.422 - INFO: image_size = 518
+25-06-24 21:08:16.422 - INFO: k_clusters = 20
+25-06-24 21:08:16.422 - INFO: model = ViT-L-14-336
+25-06-24 21:08:16.422 - INFO: prompting_branch = VL
+25-06-24 21:08:16.422 - INFO: prompting_depth = 4
+25-06-24 21:08:16.422 - INFO: prompting_length = 5
+25-06-24 21:08:16.422 - INFO: prompting_type = SD
+25-06-24 21:08:16.423 - INFO: save_fig = True
+25-06-24 21:08:16.423 - INFO: save_name = test.png
+25-06-24 21:08:16.423 - INFO: save_path = ./workspaces/results/test_visa_zsad_common_sense_train_mvtec_zsad_extended
+25-06-24 21:08:16.423 - INFO: testing_data = visa
+25-06-24 21:08:16.423 - INFO: testing_model = dataset
+25-06-24 21:08:16.423 - INFO: training_data = ['mvtec', 'colondb']
+25-06-24 21:08:16.423 - INFO: use_hsf = True
+25-06-24 21:12:49.999 - INFO:          candle 		P-Auroc:98.86 	P-F1:44.44 	P-AP:37.85 	Aupro:62.80 	I-Auroc:91.90 	I-F1:84.21 	I-AP:93.00
+25-06-24 21:12:50.000 - INFO:        capsules 		P-Auroc:98.55 	P-F1:53.10 	P-AP:47.63 	Aupro:60.36 	I-Auroc:86.42 	I-F1:85.97 	I-AP:89.25
+25-06-24 21:12:50.000 - INFO:          cashew 		P-Auroc:95.15 	P-F1:37.88 	P-AP:32.31 	Aupro:56.44 	I-Auroc:89.43 	I-F1:87.29 	I-AP:95.62
+25-06-24 21:12:50.000 - INFO:      chewinggum 		P-Auroc:99.69 	P-F1:79.06 	P-AP:87.24 	Aupro:69.39 	I-Auroc:98.18 	I-F1:96.52 	I-AP:99.27
+25-06-24 21:12:50.000 - INFO:           fryum 		P-Auroc:94.89 	P-F1:34.63 	P-AP:28.92 	Aupro:55.83 	I-Auroc:89.88 	I-F1:89.86 	I-AP:95.09
+25-06-24 21:12:50.000 - INFO:       macaroni1 		P-Auroc:99.35 	P-F1:33.31 	P-AP:25.37 	Aupro:64.21 	I-Auroc:75.80 	I-F1:74.77 	I-AP:74.86
+25-06-24 21:12:50.000 - INFO:       macaroni2 		P-Auroc:98.74 	P-F1:12.89 	P-AP:6.26 	Aupro:58.66 	I-Auroc:39.66 	I-F1:66.67 	I-AP:43.06
+25-06-24 21:12:50.000 - INFO:            pcb1 		P-Auroc:88.41 	P-F1:10.55 	P-AP:5.90 	Aupro:46.16 	I-Auroc:79.40 	I-F1:72.82 	I-AP:83.81
+25-06-24 21:12:50.000 - INFO:            pcb2 		P-Auroc:83.34 	P-F1:23.81 	P-AP:14.99 	Aupro:40.20 	I-Auroc:75.02 	I-F1:71.54 	I-AP:77.82
+25-06-24 21:12:50.000 - INFO:            pcb3 		P-Auroc:87.84 	P-F1:27.91 	P-AP:21.53 	Aupro:42.15 	I-Auroc:68.99 	I-F1:66.45 	I-AP:73.99
+25-06-24 21:12:50.001 - INFO:            pcb4 		P-Auroc:96.05 	P-F1:32.97 	P-AP:27.22 	Aupro:40.41 	I-Auroc:96.02 	I-F1:91.67 	I-AP:96.72
+25-06-24 21:12:50.001 - INFO:      pipe_fryum 		P-Auroc:97.13 	P-F1:33.77 	P-AP:28.52 	Aupro:79.74 	I-Auroc:91.95 	I-F1:90.32 	I-AP:95.75
+25-06-24 21:12:50.001 - INFO:         Average 		P-Auroc:94.83 	P-F1:35.36 	P-AP:30.31 	Aupro:56.36 	I-Auroc:81.89 	I-F1:81.51 	I-AP:84.85
+25-06-24 21:13:05.166 - INFO:          candle 		P-Auroc:98.45 	P-F1:39.36 	P-AP:30.68 	Aupro:61.57 	I-Auroc:90.31 	I-F1:82.90 	I-AP:92.26
+25-06-24 21:13:05.166 - INFO:        capsules 		P-Auroc:98.13 	P-F1:43.42 	P-AP:37.37 	Aupro:34.72 	I-Auroc:92.05 	I-F1:91.92 	I-AP:95.07
+25-06-24 21:13:05.166 - INFO:          cashew 		P-Auroc:90.34 	P-F1:26.75 	P-AP:19.95 	Aupro:32.38 	I-Auroc:85.17 	I-F1:83.25 	I-AP:93.57
+25-06-24 21:13:05.166 - INFO:      chewinggum 		P-Auroc:99.76 	P-F1:72.99 	P-AP:82.85 	Aupro:51.39 	I-Auroc:97.85 	I-F1:95.88 	I-AP:99.10
+25-06-24 21:13:05.167 - INFO:           fryum 		P-Auroc:94.14 	P-F1:32.05 	P-AP:26.06 	Aupro:48.07 	I-Auroc:93.56 	I-F1:90.29 	I-AP:97.09
+25-06-24 21:13:05.167 - INFO:       macaroni1 		P-Auroc:99.12 	P-F1:32.38 	P-AP:23.16 	Aupro:42.78 	I-Auroc:83.94 	I-F1:78.87 	I-AP:84.61
+25-06-24 21:13:05.167 - INFO:       macaroni2 		P-Auroc:98.13 	P-F1:8.37 	P-AP:3.03 	Aupro:44.93 	I-Auroc:59.02 	I-F1:69.31 	I-AP:58.30
+25-06-24 21:13:05.167 - INFO:            pcb1 		P-Auroc:84.03 	P-F1:13.42 	P-AP:6.75 	Aupro:49.85 	I-Auroc:88.41 	I-F1:81.72 	I-AP:88.06
+25-06-24 21:13:05.167 - INFO:            pcb2 		P-Auroc:90.81 	P-F1:26.60 	P-AP:16.74 	Aupro:42.15 	I-Auroc:80.70 	I-F1:75.54 	I-AP:83.41
+25-06-24 21:13:05.167 - INFO:            pcb3 		P-Auroc:89.53 	P-F1:30.50 	P-AP:22.51 	Aupro:47.96 	I-Auroc:79.20 	I-F1:75.25 	I-AP:82.68
+25-06-24 21:13:05.167 - INFO:            pcb4 		P-Auroc:96.34 	P-F1:31.36 	P-AP:27.17 	Aupro:56.35 	I-Auroc:95.44 	I-F1:89.12 	I-AP:94.92
+25-06-24 21:13:05.167 - INFO:      pipe_fryum 		P-Auroc:95.80 	P-F1:35.88 	P-AP:28.99 	Aupro:65.22 	I-Auroc:92.62 	I-F1:90.05 	I-AP:96.11
+25-06-24 21:13:05.167 - INFO:         Average 		P-Auroc:94.55 	P-F1:32.76 	P-AP:27.11 	Aupro:48.12 	I-Auroc:86.52 	I-F1:83.68 	I-AP:88.76
+25-06-24 21:20:26.492 - INFO: batch_size = 1
+25-06-24 21:20:26.492 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_origin/origin/models/['mvtec']_5.pth
+25-06-24 21:20:26.492 - INFO: class_name = candle
+25-06-24 21:20:26.492 - INFO: exclude_dataset_name = 
+25-06-24 21:20:26.492 - INFO: image_path = asset/img.png
+25-06-24 21:20:26.492 - INFO: image_size = 518
+25-06-24 21:20:26.492 - INFO: k_clusters = 20
+25-06-24 21:20:26.492 - INFO: model = ViT-L-14-336
+25-06-24 21:20:26.492 - INFO: prompting_branch = VL
+25-06-24 21:20:26.492 - INFO: prompting_depth = 4
+25-06-24 21:20:26.493 - INFO: prompting_length = 5
+25-06-24 21:20:26.493 - INFO: prompting_type = SD
+25-06-24 21:20:26.493 - INFO: save_fig = True
+25-06-24 21:20:26.493 - INFO: save_name = test.png
+25-06-24 21:20:26.493 - INFO: save_path = ./workspaces/results/test_visa_zsad_extended_train_mvtec_origin
+25-06-24 21:20:26.493 - INFO: testing_data = visa
+25-06-24 21:20:26.493 - INFO: testing_model = dataset
+25-06-24 21:20:26.493 - INFO: training_data = ['mvtec', 'colondb']
+25-06-24 21:20:26.493 - INFO: use_hsf = True
+25-06-24 21:20:39.357 - INFO: batch_size = 1
+25-06-24 21:20:39.357 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_extended/origin/models/['mvtec']_5.pth
+25-06-24 21:20:39.357 - INFO: class_name = candle
+25-06-24 21:20:39.357 - INFO: exclude_dataset_name = 
+25-06-24 21:20:39.357 - INFO: image_path = asset/img.png
+25-06-24 21:20:39.357 - INFO: image_size = 518
+25-06-24 21:20:39.357 - INFO: k_clusters = 20
+25-06-24 21:20:39.358 - INFO: model = ViT-L-14-336
+25-06-24 21:20:39.358 - INFO: prompting_branch = VL
+25-06-24 21:20:39.358 - INFO: prompting_depth = 4
+25-06-24 21:20:39.358 - INFO: prompting_length = 5
+25-06-24 21:20:39.358 - INFO: prompting_type = SD
+25-06-24 21:20:39.358 - INFO: save_fig = True
+25-06-24 21:20:39.358 - INFO: save_name = test.png
+25-06-24 21:20:39.358 - INFO: save_path = ./workspaces/results/test_visa_zsad_extended_train_mvtec_zsad_common_sense
+25-06-24 21:20:39.358 - INFO: testing_data = visa
+25-06-24 21:20:39.358 - INFO: testing_model = dataset
+25-06-24 21:20:39.358 - INFO: training_data = ['mvtec', 'colondb']
+25-06-24 21:20:39.358 - INFO: use_hsf = True
+25-06-24 21:39:46.457 - INFO:          candle 		P-Auroc:99.25 	P-F1:44.91 	P-AP:40.72 	Aupro:63.31 	I-Auroc:92.65 	I-F1:87.84 	I-AP:94.64
+25-06-24 21:39:46.458 - INFO:        capsules 		P-Auroc:99.00 	P-F1:54.76 	P-AP:49.14 	Aupro:60.02 	I-Auroc:89.69 	I-F1:84.04 	I-AP:90.35
+25-06-24 21:39:46.458 - INFO:          cashew 		P-Auroc:99.78 	P-F1:63.55 	P-AP:67.48 	Aupro:72.48 	I-Auroc:96.58 	I-F1:91.53 	I-AP:97.22
+25-06-24 21:39:46.458 - INFO:      chewinggum 		P-Auroc:99.87 	P-F1:79.56 	P-AP:88.23 	Aupro:72.70 	I-Auroc:99.93 	I-F1:99.48 	I-AP:99.93
+25-06-24 21:39:46.458 - INFO:           fryum 		P-Auroc:96.09 	P-F1:30.00 	P-AP:22.75 	Aupro:57.06 	I-Auroc:91.95 	I-F1:86.67 	I-AP:93.84
+25-06-24 21:39:46.458 - INFO:       macaroni1 		P-Auroc:99.39 	P-F1:34.82 	P-AP:26.81 	Aupro:63.87 	I-Auroc:86.11 	I-F1:81.55 	I-AP:84.63
+25-06-24 21:39:46.458 - INFO:       macaroni2 		P-Auroc:98.76 	P-F1:14.39 	P-AP:6.97 	Aupro:57.37 	I-Auroc:40.41 	I-F1:67.13 	I-AP:44.46
+25-06-24 21:39:46.459 - INFO:            pcb1 		P-Auroc:98.07 	P-F1:12.88 	P-AP:7.10 	Aupro:49.94 	I-Auroc:85.46 	I-F1:80.70 	I-AP:87.83
+25-06-24 21:39:46.459 - INFO:            pcb2 		P-Auroc:97.31 	P-F1:21.69 	P-AP:12.98 	Aupro:54.84 	I-Auroc:63.27 	I-F1:67.50 	I-AP:68.75
+25-06-24 21:39:46.459 - INFO:            pcb3 		P-Auroc:98.68 	P-F1:20.31 	P-AP:13.51 	Aupro:59.49 	I-Auroc:79.11 	I-F1:77.42 	I-AP:75.50
+25-06-24 21:39:46.459 - INFO:      pipe_fryum 		P-Auroc:99.72 	P-F1:49.08 	P-AP:49.90 	Aupro:77.60 	I-Auroc:98.81 	I-F1:95.40 	I-AP:98.90
+25-06-24 21:39:46.459 - INFO:         Average 		P-Auroc:98.72 	P-F1:38.72 	P-AP:35.05 	Aupro:62.61 	I-Auroc:84.00 	I-F1:83.57 	I-AP:85.10
+25-06-24 21:56:00.646 - INFO:          candle 		P-Auroc:99.13 	P-F1:43.94 	P-AP:38.52 	Aupro:88.85 	I-Auroc:94.12 	I-F1:90.79 	I-AP:95.80
+25-06-24 21:56:00.646 - INFO:        capsules 		P-Auroc:96.30 	P-F1:34.59 	P-AP:24.60 	Aupro:73.91 	I-Auroc:60.78 	I-F1:66.67 	I-AP:70.26
+25-06-24 21:56:00.647 - INFO:          cashew 		P-Auroc:99.26 	P-F1:58.48 	P-AP:59.39 	Aupro:76.13 	I-Auroc:88.91 	I-F1:80.99 	I-AP:91.28
+25-06-24 21:56:00.647 - INFO:      chewinggum 		P-Auroc:99.83 	P-F1:77.87 	P-AP:86.48 	Aupro:52.33 	I-Auroc:98.28 	I-F1:95.79 	I-AP:98.78
+25-06-24 21:56:00.647 - INFO:           fryum 		P-Auroc:95.95 	P-F1:30.53 	P-AP:23.87 	Aupro:64.09 	I-Auroc:87.65 	I-F1:81.94 	I-AP:90.97
+25-06-24 21:56:00.647 - INFO:       macaroni1 		P-Auroc:99.65 	P-F1:40.53 	P-AP:33.40 	Aupro:96.42 	I-Auroc:84.47 	I-F1:79.80 	I-AP:85.57
+25-06-24 21:56:00.647 - INFO:       macaroni2 		P-Auroc:98.82 	P-F1:14.41 	P-AP:6.05 	Aupro:90.63 	I-Auroc:45.25 	I-F1:67.37 	I-AP:47.29
+25-06-24 21:56:00.647 - INFO:            pcb1 		P-Auroc:97.83 	P-F1:17.35 	P-AP:9.53 	Aupro:84.66 	I-Auroc:41.85 	I-F1:66.67 	I-AP:49.27
+25-06-24 21:56:00.647 - INFO:            pcb2 		P-Auroc:98.20 	P-F1:42.86 	P-AP:33.46 	Aupro:87.64 	I-Auroc:67.80 	I-F1:66.97 	I-AP:72.14
+25-06-24 21:56:00.647 - INFO:            pcb3 		P-Auroc:97.48 	P-F1:31.37 	P-AP:23.41 	Aupro:83.82 	I-Auroc:76.80 	I-F1:72.59 	I-AP:79.22
+25-06-24 21:56:00.647 - INFO:      pipe_fryum 		P-Auroc:99.43 	P-F1:43.62 	P-AP:42.49 	Aupro:89.54 	I-Auroc:92.91 	I-F1:86.49 	I-AP:93.44
+25-06-24 21:56:00.647 - INFO:         Average 		P-Auroc:98.35 	P-F1:39.60 	P-AP:34.65 	Aupro:80.73 	I-Auroc:76.26 	I-F1:77.82 	I-AP:79.46
+25-06-24 21:58:21.610 - INFO:          candle 		P-Auroc:99.25 	P-F1:44.91 	P-AP:40.72 	Aupro:63.31 	I-Auroc:92.65 	I-F1:87.84 	I-AP:94.64
+25-06-24 21:58:21.611 - INFO:        capsules 		P-Auroc:99.00 	P-F1:54.76 	P-AP:49.14 	Aupro:60.02 	I-Auroc:89.69 	I-F1:84.04 	I-AP:90.35
+25-06-24 21:58:21.611 - INFO:          cashew 		P-Auroc:99.78 	P-F1:63.55 	P-AP:67.48 	Aupro:72.48 	I-Auroc:96.58 	I-F1:91.53 	I-AP:97.22
+25-06-24 21:58:21.611 - INFO:      chewinggum 		P-Auroc:99.87 	P-F1:79.56 	P-AP:88.23 	Aupro:72.70 	I-Auroc:99.93 	I-F1:99.48 	I-AP:99.93
+25-06-24 21:58:21.611 - INFO:           fryum 		P-Auroc:96.09 	P-F1:30.00 	P-AP:22.75 	Aupro:57.06 	I-Auroc:91.95 	I-F1:86.67 	I-AP:93.84
+25-06-24 21:58:21.611 - INFO:       macaroni1 		P-Auroc:99.39 	P-F1:34.82 	P-AP:26.81 	Aupro:63.87 	I-Auroc:86.11 	I-F1:81.55 	I-AP:84.63
+25-06-24 21:58:21.611 - INFO:       macaroni2 		P-Auroc:98.76 	P-F1:14.39 	P-AP:6.97 	Aupro:57.37 	I-Auroc:40.41 	I-F1:67.13 	I-AP:44.46
+25-06-24 21:58:21.611 - INFO:            pcb1 		P-Auroc:98.64 	P-F1:23.43 	P-AP:14.58 	Aupro:53.97 	I-Auroc:88.34 	I-F1:82.21 	I-AP:90.02
+25-06-24 21:58:21.611 - INFO:            pcb2 		P-Auroc:97.89 	P-F1:33.71 	P-AP:26.56 	Aupro:54.56 	I-Auroc:73.41 	I-F1:70.19 	I-AP:77.05
+25-06-24 21:58:21.612 - INFO:            pcb3 		P-Auroc:98.20 	P-F1:18.72 	P-AP:12.59 	Aupro:52.05 	I-Auroc:72.27 	I-F1:73.08 	I-AP:70.30
+25-06-24 21:58:21.612 - INFO:      pipe_fryum 		P-Auroc:99.72 	P-F1:49.08 	P-AP:49.90 	Aupro:77.60 	I-Auroc:98.63 	I-F1:94.97 	I-AP:98.69
+25-06-24 21:58:21.612 - INFO:         Average 		P-Auroc:98.78 	P-F1:40.63 	P-AP:36.89 	Aupro:62.27 	I-Auroc:84.54 	I-F1:83.52 	I-AP:85.56
+25-06-26 15:08:07.848 - INFO: batch_size = 1
+25-06-26 15:08:07.849 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_origin/origin/models/['mvtec']_5.pth
+25-06-26 15:08:07.849 - INFO: class_name = candle
+25-06-26 15:08:07.849 - INFO: exclude_dataset_name = 
+25-06-26 15:08:07.849 - INFO: image_path = asset/img.png
+25-06-26 15:08:07.849 - INFO: image_size = 518
+25-06-26 15:08:07.850 - INFO: k_clusters = 20
+25-06-26 15:08:07.850 - INFO: model = ViT-L-14-336
+25-06-26 15:08:07.850 - INFO: prompting_branch = VL
+25-06-26 15:08:07.850 - INFO: prompting_depth = 4
+25-06-26 15:08:07.850 - INFO: prompting_length = 5
+25-06-26 15:08:07.851 - INFO: prompting_type = SD
+25-06-26 15:08:07.851 - INFO: save_fig = True
+25-06-26 15:08:07.851 - INFO: save_name = test.png
+25-06-26 15:08:07.851 - INFO: save_path = ./workspaces/results/test_br35h_train_mvtec_origin
+25-06-26 15:08:07.851 - INFO: testing_data = br35h
+25-06-26 15:08:07.852 - INFO: testing_model = dataset
+25-06-26 15:08:07.852 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 15:08:07.852 - INFO: use_hsf = True
+25-06-26 15:09:42.370 - INFO: batch_size = 1
+25-06-26 15:09:42.371 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_origin/origin/models/['mvtec']_5.pth
+25-06-26 15:09:42.371 - INFO: class_name = candle
+25-06-26 15:09:42.371 - INFO: exclude_dataset_name = 
+25-06-26 15:09:42.371 - INFO: image_path = asset/img.png
+25-06-26 15:09:42.371 - INFO: image_size = 518
+25-06-26 15:09:42.372 - INFO: k_clusters = 20
+25-06-26 15:09:42.372 - INFO: model = ViT-L-14-336
+25-06-26 15:09:42.372 - INFO: prompting_branch = VL
+25-06-26 15:09:42.372 - INFO: prompting_depth = 4
+25-06-26 15:09:42.372 - INFO: prompting_length = 5
+25-06-26 15:09:42.373 - INFO: prompting_type = SD
+25-06-26 15:09:42.373 - INFO: save_fig = True
+25-06-26 15:09:42.373 - INFO: save_name = test.png
+25-06-26 15:09:42.373 - INFO: save_path = ./workspaces/results/test_br35h_train_mvtec_origin
+25-06-26 15:09:42.373 - INFO: testing_data = br35h
+25-06-26 15:09:42.373 - INFO: testing_model = dataset
+25-06-26 15:09:42.374 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 15:09:42.374 - INFO: use_hsf = True
+25-06-26 15:27:39.805 - INFO: batch_size = 1
+25-06-26 15:27:39.805 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_origin/origin/models/['mvtec']_5.pth
+25-06-26 15:27:39.805 - INFO: class_name = candle
+25-06-26 15:27:39.805 - INFO: exclude_dataset_name = 
+25-06-26 15:27:39.805 - INFO: image_path = asset/img.png
+25-06-26 15:27:39.805 - INFO: image_size = 518
+25-06-26 15:27:39.805 - INFO: k_clusters = 20
+25-06-26 15:27:39.805 - INFO: model = ViT-L-14-336
+25-06-26 15:27:39.805 - INFO: prompting_branch = VL
+25-06-26 15:27:39.805 - INFO: prompting_depth = 4
+25-06-26 15:27:39.806 - INFO: prompting_length = 5
+25-06-26 15:27:39.806 - INFO: prompting_type = SD
+25-06-26 15:27:39.806 - INFO: save_fig = True
+25-06-26 15:27:39.806 - INFO: save_name = test.png
+25-06-26 15:27:39.806 - INFO: save_path = ./workspaces/results/test_br35h_train_mvtec_origin
+25-06-26 15:27:39.806 - INFO: testing_data = br35h
+25-06-26 15:27:39.806 - INFO: testing_model = dataset
+25-06-26 15:27:39.806 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 15:27:39.806 - INFO: use_hsf = True
+25-06-26 15:28:16.376 - INFO: batch_size = 1
+25-06-26 15:28:16.376 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_origin/origin/models/['mvtec']_5.pth
+25-06-26 15:28:16.377 - INFO: class_name = candle
+25-06-26 15:28:16.377 - INFO: exclude_dataset_name = 
+25-06-26 15:28:16.377 - INFO: image_path = asset/img.png
+25-06-26 15:28:16.377 - INFO: image_size = 518
+25-06-26 15:28:16.377 - INFO: k_clusters = 20
+25-06-26 15:28:16.377 - INFO: model = ViT-L-14-336
+25-06-26 15:28:16.377 - INFO: prompting_branch = VL
+25-06-26 15:28:16.377 - INFO: prompting_depth = 4
+25-06-26 15:28:16.377 - INFO: prompting_length = 5
+25-06-26 15:28:16.377 - INFO: prompting_type = SD
+25-06-26 15:28:16.378 - INFO: save_fig = True
+25-06-26 15:28:16.378 - INFO: save_name = test.png
+25-06-26 15:28:16.378 - INFO: save_path = ./workspaces/results/test_clinicdb_train_mvtec_origin
+25-06-26 15:28:16.378 - INFO: testing_data = clinicdb
+25-06-26 15:28:16.378 - INFO: testing_model = dataset
+25-06-26 15:28:16.378 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 15:28:16.378 - INFO: use_hsf = True
+25-06-26 15:39:57.960 - INFO: batch_size = 1
+25-06-26 15:39:57.960 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_common_sense/origin/models/['mvtec']_5.pth
+25-06-26 15:39:57.960 - INFO: class_name = candle
+25-06-26 15:39:57.960 - INFO: exclude_dataset_name = 
+25-06-26 15:39:57.961 - INFO: image_path = asset/img.png
+25-06-26 15:39:57.961 - INFO: image_size = 518
+25-06-26 15:39:57.961 - INFO: k_clusters = 20
+25-06-26 15:39:57.961 - INFO: model = ViT-L-14-336
+25-06-26 15:39:57.961 - INFO: prompting_branch = VL
+25-06-26 15:39:57.961 - INFO: prompting_depth = 4
+25-06-26 15:39:57.961 - INFO: prompting_length = 5
+25-06-26 15:39:57.961 - INFO: prompting_type = SD
+25-06-26 15:39:57.961 - INFO: save_fig = True
+25-06-26 15:39:57.961 - INFO: save_name = test.png
+25-06-26 15:39:57.961 - INFO: save_path = ./workspaces/results/test_br35h_train_mvtec_zsad_common_sense
+25-06-26 15:39:57.961 - INFO: testing_data = br35h
+25-06-26 15:39:57.962 - INFO: testing_model = dataset
+25-06-26 15:39:57.962 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 15:39:57.962 - INFO: use_hsf = True
+25-06-26 15:44:20.226 - INFO:           colon 		P-Auroc:83.09 	P-F1:40.10 	P-AP:29.58 	Aupro:62.58 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 15:44:20.226 - INFO:         Average 		P-Auroc:83.09 	P-F1:40.10 	P-AP:29.58 	Aupro:62.58 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 15:44:25.444 - INFO: batch_size = 1
+25-06-26 15:44:25.445 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_common_sense/origin/models/['mvtec']_5.pth
+25-06-26 15:44:25.445 - INFO: class_name = candle
+25-06-26 15:44:25.445 - INFO: exclude_dataset_name = 
+25-06-26 15:44:25.445 - INFO: image_path = asset/img.png
+25-06-26 15:44:25.445 - INFO: image_size = 518
+25-06-26 15:44:25.445 - INFO: k_clusters = 20
+25-06-26 15:44:25.445 - INFO: model = ViT-L-14-336
+25-06-26 15:44:25.445 - INFO: prompting_branch = VL
+25-06-26 15:44:25.445 - INFO: prompting_depth = 4
+25-06-26 15:44:25.445 - INFO: prompting_length = 5
+25-06-26 15:44:25.445 - INFO: prompting_type = SD
+25-06-26 15:44:25.446 - INFO: save_fig = True
+25-06-26 15:44:25.446 - INFO: save_name = test.png
+25-06-26 15:44:25.446 - INFO: save_path = ./workspaces/results/test_clinicdb_train_mvtec_zsad_common_sense
+25-06-26 15:44:25.446 - INFO: testing_data = clinicdb
+25-06-26 15:44:25.446 - INFO: testing_model = dataset
+25-06-26 15:44:25.446 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 15:44:25.446 - INFO: use_hsf = True
+25-06-26 15:52:24.661 - INFO: batch_size = 1
+25-06-26 15:52:24.661 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_extended/origin/models/['mvtec']_5.pth
+25-06-26 15:52:24.661 - INFO: class_name = candle
+25-06-26 15:52:24.661 - INFO: exclude_dataset_name = 
+25-06-26 15:52:24.661 - INFO: image_path = asset/img.png
+25-06-26 15:52:24.661 - INFO: image_size = 518
+25-06-26 15:52:24.661 - INFO: k_clusters = 20
+25-06-26 15:52:24.661 - INFO: model = ViT-L-14-336
+25-06-26 15:52:24.661 - INFO: prompting_branch = VL
+25-06-26 15:52:24.661 - INFO: prompting_depth = 4
+25-06-26 15:52:24.661 - INFO: prompting_length = 5
+25-06-26 15:52:24.662 - INFO: prompting_type = SD
+25-06-26 15:52:24.662 - INFO: save_fig = True
+25-06-26 15:52:24.662 - INFO: save_name = test.png
+25-06-26 15:52:24.662 - INFO: save_path = ./workspaces/results/test_br35h_train_mvtec_zsad_extended
+25-06-26 15:52:24.662 - INFO: testing_data = br35h
+25-06-26 15:52:24.662 - INFO: testing_model = dataset
+25-06-26 15:52:24.662 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 15:52:24.662 - INFO: use_hsf = True
+25-06-26 16:00:37.641 - INFO:           colon 		P-Auroc:82.81 	P-F1:40.51 	P-AP:33.88 	Aupro:40.71 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:00:37.641 - INFO:         Average 		P-Auroc:82.81 	P-F1:40.51 	P-AP:33.88 	Aupro:40.71 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:00:43.297 - INFO: batch_size = 1
+25-06-26 16:00:43.297 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_extended/origin/models/['mvtec']_5.pth
+25-06-26 16:00:43.297 - INFO: class_name = candle
+25-06-26 16:00:43.297 - INFO: exclude_dataset_name = 
+25-06-26 16:00:43.298 - INFO: image_path = asset/img.png
+25-06-26 16:00:43.298 - INFO: image_size = 518
+25-06-26 16:00:43.298 - INFO: k_clusters = 20
+25-06-26 16:00:43.298 - INFO: model = ViT-L-14-336
+25-06-26 16:00:43.298 - INFO: prompting_branch = VL
+25-06-26 16:00:43.298 - INFO: prompting_depth = 4
+25-06-26 16:00:43.298 - INFO: prompting_length = 5
+25-06-26 16:00:43.298 - INFO: prompting_type = SD
+25-06-26 16:00:43.298 - INFO: save_fig = True
+25-06-26 16:00:43.298 - INFO: save_name = test.png
+25-06-26 16:00:43.298 - INFO: save_path = ./workspaces/results/test_clinicdb_train_mvtec_zsad_extended
+25-06-26 16:00:43.298 - INFO: testing_data = clinicdb
+25-06-26 16:00:43.298 - INFO: testing_model = dataset
+25-06-26 16:00:43.299 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 16:00:43.299 - INFO: use_hsf = True
+25-06-26 16:05:51.745 - INFO: batch_size = 1
+25-06-26 16:05:51.745 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_origin/origin/models/['mvtec']_5.pth
+25-06-26 16:05:51.745 - INFO: class_name = candle
+25-06-26 16:05:51.745 - INFO: exclude_dataset_name = 
+25-06-26 16:05:51.745 - INFO: image_path = asset/img.png
+25-06-26 16:05:51.745 - INFO: image_size = 518
+25-06-26 16:05:51.746 - INFO: k_clusters = 20
+25-06-26 16:05:51.746 - INFO: model = ViT-L-14-336
+25-06-26 16:05:51.746 - INFO: prompting_branch = VL
+25-06-26 16:05:51.746 - INFO: prompting_depth = 4
+25-06-26 16:05:51.746 - INFO: prompting_length = 5
+25-06-26 16:05:51.746 - INFO: prompting_type = SD
+25-06-26 16:05:51.746 - INFO: save_fig = True
+25-06-26 16:05:51.746 - INFO: save_name = test.png
+25-06-26 16:05:51.746 - INFO: save_path = ./workspaces/results/test_brainmri_train_mvtec_origin
+25-06-26 16:05:51.746 - INFO: testing_data = brainmri
+25-06-26 16:05:51.746 - INFO: testing_model = dataset
+25-06-26 16:05:51.746 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 16:05:51.746 - INFO: use_hsf = True
+25-06-26 16:07:07.000 - INFO: batch_size = 1
+25-06-26 16:07:07.000 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_common_sense/origin/models/['mvtec']_5.pth
+25-06-26 16:07:07.000 - INFO: class_name = candle
+25-06-26 16:07:07.000 - INFO: exclude_dataset_name = 
+25-06-26 16:07:07.000 - INFO: image_path = asset/img.png
+25-06-26 16:07:07.000 - INFO: image_size = 518
+25-06-26 16:07:07.000 - INFO: k_clusters = 20
+25-06-26 16:07:07.000 - INFO: model = ViT-L-14-336
+25-06-26 16:07:07.000 - INFO: prompting_branch = VL
+25-06-26 16:07:07.000 - INFO: prompting_depth = 4
+25-06-26 16:07:07.000 - INFO: prompting_length = 5
+25-06-26 16:07:07.001 - INFO: prompting_type = SD
+25-06-26 16:07:07.001 - INFO: save_fig = True
+25-06-26 16:07:07.001 - INFO: save_name = test.png
+25-06-26 16:07:07.001 - INFO: save_path = ./workspaces/results/test_brainmri_train_mvtec_zsad_common_sense
+25-06-26 16:07:07.001 - INFO: testing_data = brainmri
+25-06-26 16:07:07.001 - INFO: testing_model = dataset
+25-06-26 16:07:07.001 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 16:07:07.001 - INFO: use_hsf = True
+25-06-26 16:08:21.275 - INFO: batch_size = 1
+25-06-26 16:08:21.275 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_extended/origin/models/['mvtec']_5.pth
+25-06-26 16:08:21.275 - INFO: class_name = candle
+25-06-26 16:08:21.275 - INFO: exclude_dataset_name = 
+25-06-26 16:08:21.275 - INFO: image_path = asset/img.png
+25-06-26 16:08:21.276 - INFO: image_size = 518
+25-06-26 16:08:21.276 - INFO: k_clusters = 20
+25-06-26 16:08:21.276 - INFO: model = ViT-L-14-336
+25-06-26 16:08:21.276 - INFO: prompting_branch = VL
+25-06-26 16:08:21.276 - INFO: prompting_depth = 4
+25-06-26 16:08:21.276 - INFO: prompting_length = 5
+25-06-26 16:08:21.276 - INFO: prompting_type = SD
+25-06-26 16:08:21.276 - INFO: save_fig = True
+25-06-26 16:08:21.276 - INFO: save_name = test.png
+25-06-26 16:08:21.276 - INFO: save_path = ./workspaces/results/test_brainmri_train_mvtec_zsad_extended
+25-06-26 16:08:21.276 - INFO: testing_data = brainmri
+25-06-26 16:08:21.276 - INFO: testing_model = dataset
+25-06-26 16:08:21.276 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 16:08:21.276 - INFO: use_hsf = True
+25-06-26 16:09:35.479 - INFO: batch_size = 1
+25-06-26 16:09:35.479 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_origin/origin/models/['mvtec']_5.pth
+25-06-26 16:09:35.479 - INFO: class_name = candle
+25-06-26 16:09:35.479 - INFO: exclude_dataset_name = 
+25-06-26 16:09:35.479 - INFO: image_path = asset/img.png
+25-06-26 16:09:35.479 - INFO: image_size = 518
+25-06-26 16:09:35.479 - INFO: k_clusters = 20
+25-06-26 16:09:35.480 - INFO: model = ViT-L-14-336
+25-06-26 16:09:35.480 - INFO: prompting_branch = VL
+25-06-26 16:09:35.480 - INFO: prompting_depth = 4
+25-06-26 16:09:35.480 - INFO: prompting_length = 5
+25-06-26 16:09:35.480 - INFO: prompting_type = SD
+25-06-26 16:09:35.480 - INFO: save_fig = True
+25-06-26 16:09:35.480 - INFO: save_name = test.png
+25-06-26 16:09:35.480 - INFO: save_path = ./workspaces/results/test_headct_train_mvtec_origin
+25-06-26 16:09:35.480 - INFO: testing_data = headct
+25-06-26 16:09:35.480 - INFO: testing_model = dataset
+25-06-26 16:09:35.480 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 16:09:35.480 - INFO: use_hsf = True
+25-06-26 16:10:39.059 - INFO: batch_size = 1
+25-06-26 16:10:39.059 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_common_sense/origin/models/['mvtec']_5.pth
+25-06-26 16:10:39.059 - INFO: class_name = candle
+25-06-26 16:10:39.059 - INFO: exclude_dataset_name = 
+25-06-26 16:10:39.059 - INFO: image_path = asset/img.png
+25-06-26 16:10:39.059 - INFO: image_size = 518
+25-06-26 16:10:39.059 - INFO: k_clusters = 20
+25-06-26 16:10:39.059 - INFO: model = ViT-L-14-336
+25-06-26 16:10:39.060 - INFO: prompting_branch = VL
+25-06-26 16:10:39.060 - INFO: prompting_depth = 4
+25-06-26 16:10:39.060 - INFO: prompting_length = 5
+25-06-26 16:10:39.060 - INFO: prompting_type = SD
+25-06-26 16:10:39.060 - INFO: save_fig = True
+25-06-26 16:10:39.060 - INFO: save_name = test.png
+25-06-26 16:10:39.060 - INFO: save_path = ./workspaces/results/test_headct_train_mvtec_zsad_common_sense
+25-06-26 16:10:39.060 - INFO: testing_data = headct
+25-06-26 16:10:39.060 - INFO: testing_model = dataset
+25-06-26 16:10:39.060 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 16:10:39.060 - INFO: use_hsf = True
+25-06-26 16:11:41.577 - INFO: batch_size = 1
+25-06-26 16:11:41.577 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_extended/origin/models/['mvtec']_5.pth
+25-06-26 16:11:41.577 - INFO: class_name = candle
+25-06-26 16:11:41.577 - INFO: exclude_dataset_name = 
+25-06-26 16:11:41.577 - INFO: image_path = asset/img.png
+25-06-26 16:11:41.577 - INFO: image_size = 518
+25-06-26 16:11:41.577 - INFO: k_clusters = 20
+25-06-26 16:11:41.577 - INFO: model = ViT-L-14-336
+25-06-26 16:11:41.577 - INFO: prompting_branch = VL
+25-06-26 16:11:41.577 - INFO: prompting_depth = 4
+25-06-26 16:11:41.578 - INFO: prompting_length = 5
+25-06-26 16:11:41.578 - INFO: prompting_type = SD
+25-06-26 16:11:41.578 - INFO: save_fig = True
+25-06-26 16:11:41.578 - INFO: save_name = test.png
+25-06-26 16:11:41.578 - INFO: save_path = ./workspaces/results/test_headct_train_mvtec_zsad_extended
+25-06-26 16:11:41.578 - INFO: testing_data = headct
+25-06-26 16:11:41.578 - INFO: testing_model = dataset
+25-06-26 16:11:41.578 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 16:11:41.578 - INFO: use_hsf = True
+25-06-26 16:17:26.433 - INFO:           colon 		P-Auroc:83.94 	P-F1:41.82 	P-AP:35.25 	Aupro:53.03 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:17:26.433 - INFO:         Average 		P-Auroc:83.94 	P-F1:41.82 	P-AP:35.25 	Aupro:53.03 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:17:31.572 - INFO: batch_size = 1
+25-06-26 16:17:31.573 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_origin/origin/models/['mvtec']_5.pth
+25-06-26 16:17:31.573 - INFO: class_name = candle
+25-06-26 16:17:31.573 - INFO: exclude_dataset_name = 
+25-06-26 16:17:31.574 - INFO: image_path = asset/img.png
+25-06-26 16:17:31.574 - INFO: image_size = 518
+25-06-26 16:17:31.574 - INFO: k_clusters = 20
+25-06-26 16:17:31.574 - INFO: model = ViT-L-14-336
+25-06-26 16:17:31.575 - INFO: prompting_branch = VL
+25-06-26 16:17:31.575 - INFO: prompting_depth = 4
+25-06-26 16:17:31.575 - INFO: prompting_length = 5
+25-06-26 16:17:31.575 - INFO: prompting_type = SD
+25-06-26 16:17:31.575 - INFO: save_fig = True
+25-06-26 16:17:31.576 - INFO: save_name = test.png
+25-06-26 16:17:31.576 - INFO: save_path = ./workspaces/results/test_colondb_train_mvtec_origin
+25-06-26 16:17:31.576 - INFO: testing_data = colondb
+25-06-26 16:17:31.576 - INFO: testing_model = dataset
+25-06-26 16:17:31.577 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 16:17:31.577 - INFO: use_hsf = True
+25-06-26 16:26:45.272 - INFO:           colon 		P-Auroc:82.41 	P-F1:34.91 	P-AP:26.15 	Aupro:62.56 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:26:45.272 - INFO:         Average 		P-Auroc:82.41 	P-F1:34.91 	P-AP:26.15 	Aupro:62.56 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:26:50.331 - INFO: batch_size = 1
+25-06-26 16:26:50.331 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_common_sense/origin/models/['mvtec']_5.pth
+25-06-26 16:26:50.331 - INFO: class_name = candle
+25-06-26 16:26:50.332 - INFO: exclude_dataset_name = 
+25-06-26 16:26:50.332 - INFO: image_path = asset/img.png
+25-06-26 16:26:50.332 - INFO: image_size = 518
+25-06-26 16:26:50.332 - INFO: k_clusters = 20
+25-06-26 16:26:50.332 - INFO: model = ViT-L-14-336
+25-06-26 16:26:50.332 - INFO: prompting_branch = VL
+25-06-26 16:26:50.332 - INFO: prompting_depth = 4
+25-06-26 16:26:50.332 - INFO: prompting_length = 5
+25-06-26 16:26:50.332 - INFO: prompting_type = SD
+25-06-26 16:26:50.332 - INFO: save_fig = True
+25-06-26 16:26:50.332 - INFO: save_name = test.png
+25-06-26 16:26:50.332 - INFO: save_path = ./workspaces/results/test_colondb_train_mvtec_zsad_common_sense
+25-06-26 16:26:50.332 - INFO: testing_data = colondb
+25-06-26 16:26:50.332 - INFO: testing_model = dataset
+25-06-26 16:26:50.333 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 16:26:50.333 - INFO: use_hsf = True
+25-06-26 16:35:57.314 - INFO:           colon 		P-Auroc:79.68 	P-F1:30.16 	P-AP:21.98 	Aupro:27.46 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:35:57.315 - INFO:         Average 		P-Auroc:79.68 	P-F1:30.16 	P-AP:21.98 	Aupro:27.46 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:36:02.286 - INFO: batch_size = 1
+25-06-26 16:36:02.286 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_extended/origin/models/['mvtec']_5.pth
+25-06-26 16:36:02.286 - INFO: class_name = candle
+25-06-26 16:36:02.286 - INFO: exclude_dataset_name = 
+25-06-26 16:36:02.286 - INFO: image_path = asset/img.png
+25-06-26 16:36:02.286 - INFO: image_size = 518
+25-06-26 16:36:02.287 - INFO: k_clusters = 20
+25-06-26 16:36:02.287 - INFO: model = ViT-L-14-336
+25-06-26 16:36:02.287 - INFO: prompting_branch = VL
+25-06-26 16:36:02.287 - INFO: prompting_depth = 4
+25-06-26 16:36:02.287 - INFO: prompting_length = 5
+25-06-26 16:36:02.287 - INFO: prompting_type = SD
+25-06-26 16:36:02.287 - INFO: save_fig = True
+25-06-26 16:36:02.287 - INFO: save_name = test.png
+25-06-26 16:36:02.287 - INFO: save_path = ./workspaces/results/test_colondb_train_mvtec_zsad_extended
+25-06-26 16:36:02.287 - INFO: testing_data = colondb
+25-06-26 16:36:02.287 - INFO: testing_model = dataset
+25-06-26 16:36:02.287 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 16:36:02.287 - INFO: use_hsf = True
+25-06-26 16:45:27.549 - INFO:           colon 		P-Auroc:81.27 	P-F1:33.56 	P-AP:24.13 	Aupro:45.46 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:45:27.549 - INFO:         Average 		P-Auroc:81.27 	P-F1:33.56 	P-AP:24.13 	Aupro:45.46 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:45:32.694 - INFO: batch_size = 1
+25-06-26 16:45:32.695 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_origin/origin/models/['mvtec']_5.pth
+25-06-26 16:45:32.695 - INFO: class_name = candle
+25-06-26 16:45:32.695 - INFO: exclude_dataset_name = 
+25-06-26 16:45:32.695 - INFO: image_path = asset/img.png
+25-06-26 16:45:32.695 - INFO: image_size = 518
+25-06-26 16:45:32.695 - INFO: k_clusters = 20
+25-06-26 16:45:32.695 - INFO: model = ViT-L-14-336
+25-06-26 16:45:32.695 - INFO: prompting_branch = VL
+25-06-26 16:45:32.695 - INFO: prompting_depth = 4
+25-06-26 16:45:32.695 - INFO: prompting_length = 5
+25-06-26 16:45:32.695 - INFO: prompting_type = SD
+25-06-26 16:45:32.695 - INFO: save_fig = True
+25-06-26 16:45:32.695 - INFO: save_name = test.png
+25-06-26 16:45:32.695 - INFO: save_path = ./workspaces/results/test_cvc300_train_mvtec_origin
+25-06-26 16:45:32.696 - INFO: testing_data = cvc300
+25-06-26 16:45:32.696 - INFO: testing_model = dataset
+25-06-26 16:45:32.696 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 16:45:32.696 - INFO: use_hsf = True
+25-06-26 16:47:00.567 - INFO:           colon 		P-Auroc:87.70 	P-F1:26.66 	P-AP:15.48 	Aupro:64.80 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:47:00.567 - INFO:         Average 		P-Auroc:87.70 	P-F1:26.66 	P-AP:15.48 	Aupro:64.80 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:47:05.529 - INFO: batch_size = 1
+25-06-26 16:47:05.529 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_common_sense/origin/models/['mvtec']_5.pth
+25-06-26 16:47:05.529 - INFO: class_name = candle
+25-06-26 16:47:05.529 - INFO: exclude_dataset_name = 
+25-06-26 16:47:05.529 - INFO: image_path = asset/img.png
+25-06-26 16:47:05.529 - INFO: image_size = 518
+25-06-26 16:47:05.529 - INFO: k_clusters = 20
+25-06-26 16:47:05.530 - INFO: model = ViT-L-14-336
+25-06-26 16:47:05.530 - INFO: prompting_branch = VL
+25-06-26 16:47:05.530 - INFO: prompting_depth = 4
+25-06-26 16:47:05.530 - INFO: prompting_length = 5
+25-06-26 16:47:05.530 - INFO: prompting_type = SD
+25-06-26 16:47:05.530 - INFO: save_fig = True
+25-06-26 16:47:05.530 - INFO: save_name = test.png
+25-06-26 16:47:05.530 - INFO: save_path = ./workspaces/results/test_cvc300_train_mvtec_zsad_common_sense
+25-06-26 16:47:05.530 - INFO: testing_data = cvc300
+25-06-26 16:47:05.530 - INFO: testing_model = dataset
+25-06-26 16:47:05.530 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 16:47:05.530 - INFO: use_hsf = True
+25-06-26 16:48:33.059 - INFO:           colon 		P-Auroc:82.06 	P-F1:19.06 	P-AP:12.60 	Aupro:12.54 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:48:33.059 - INFO:         Average 		P-Auroc:82.06 	P-F1:19.06 	P-AP:12.60 	Aupro:12.54 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:48:38.195 - INFO: batch_size = 1
+25-06-26 16:48:38.196 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_extended/origin/models/['mvtec']_5.pth
+25-06-26 16:48:38.196 - INFO: class_name = candle
+25-06-26 16:48:38.196 - INFO: exclude_dataset_name = 
+25-06-26 16:48:38.196 - INFO: image_path = asset/img.png
+25-06-26 16:48:38.196 - INFO: image_size = 518
+25-06-26 16:48:38.196 - INFO: k_clusters = 20
+25-06-26 16:48:38.196 - INFO: model = ViT-L-14-336
+25-06-26 16:48:38.196 - INFO: prompting_branch = VL
+25-06-26 16:48:38.196 - INFO: prompting_depth = 4
+25-06-26 16:48:38.196 - INFO: prompting_length = 5
+25-06-26 16:48:38.196 - INFO: prompting_type = SD
+25-06-26 16:48:38.196 - INFO: save_fig = True
+25-06-26 16:48:38.197 - INFO: save_name = test.png
+25-06-26 16:48:38.197 - INFO: save_path = ./workspaces/results/test_cvc300_train_mvtec_zsad_extended
+25-06-26 16:48:38.197 - INFO: testing_data = cvc300
+25-06-26 16:48:38.197 - INFO: testing_model = dataset
+25-06-26 16:48:38.197 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 16:48:38.197 - INFO: use_hsf = True
+25-06-26 16:50:03.896 - INFO:           colon 		P-Auroc:90.96 	P-F1:32.23 	P-AP:19.68 	Aupro:39.77 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:50:03.896 - INFO:         Average 		P-Auroc:90.96 	P-F1:32.23 	P-AP:19.68 	Aupro:39.77 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 16:50:08.786 - INFO: batch_size = 1
+25-06-26 16:50:08.787 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_origin/origin/models/['mvtec']_5.pth
+25-06-26 16:50:08.787 - INFO: class_name = candle
+25-06-26 16:50:08.787 - INFO: exclude_dataset_name = 
+25-06-26 16:50:08.787 - INFO: image_path = asset/img.png
+25-06-26 16:50:08.787 - INFO: image_size = 518
+25-06-26 16:50:08.787 - INFO: k_clusters = 20
+25-06-26 16:50:08.787 - INFO: model = ViT-L-14-336
+25-06-26 16:50:08.787 - INFO: prompting_branch = VL
+25-06-26 16:50:08.787 - INFO: prompting_depth = 4
+25-06-26 16:50:08.787 - INFO: prompting_length = 5
+25-06-26 16:50:08.787 - INFO: prompting_type = SD
+25-06-26 16:50:08.787 - INFO: save_fig = True
+25-06-26 16:50:08.788 - INFO: save_name = test.png
+25-06-26 16:50:08.788 - INFO: save_path = ./workspaces/results/test_isic_train_mvtec_origin
+25-06-26 16:50:08.788 - INFO: testing_data = isic
+25-06-26 16:50:08.788 - INFO: testing_model = dataset
+25-06-26 16:50:08.788 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 16:50:08.788 - INFO: use_hsf = True
+25-06-26 17:03:09.943 - INFO:     skin_cancer 		P-Auroc:87.94 	P-F1:69.37 	P-AP:75.48 	Aupro:63.58 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 17:03:09.944 - INFO:         Average 		P-Auroc:87.94 	P-F1:69.37 	P-AP:75.48 	Aupro:63.58 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 17:03:15.370 - INFO: batch_size = 1
+25-06-26 17:03:15.370 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_common_sense/origin/models/['mvtec']_5.pth
+25-06-26 17:03:15.371 - INFO: class_name = candle
+25-06-26 17:03:15.371 - INFO: exclude_dataset_name = 
+25-06-26 17:03:15.371 - INFO: image_path = asset/img.png
+25-06-26 17:03:15.371 - INFO: image_size = 518
+25-06-26 17:03:15.371 - INFO: k_clusters = 20
+25-06-26 17:03:15.371 - INFO: model = ViT-L-14-336
+25-06-26 17:03:15.371 - INFO: prompting_branch = VL
+25-06-26 17:03:15.371 - INFO: prompting_depth = 4
+25-06-26 17:03:15.371 - INFO: prompting_length = 5
+25-06-26 17:03:15.371 - INFO: prompting_type = SD
+25-06-26 17:03:15.371 - INFO: save_fig = True
+25-06-26 17:03:15.371 - INFO: save_name = test.png
+25-06-26 17:03:15.372 - INFO: save_path = ./workspaces/results/test_isic_train_mvtec_zsad_common_sense
+25-06-26 17:03:15.372 - INFO: testing_data = isic
+25-06-26 17:03:15.372 - INFO: testing_model = dataset
+25-06-26 17:03:15.372 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 17:03:15.372 - INFO: use_hsf = True
+25-06-26 17:16:23.949 - INFO:     skin_cancer 		P-Auroc:88.62 	P-F1:70.27 	P-AP:73.22 	Aupro:20.33 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 17:16:23.949 - INFO:         Average 		P-Auroc:88.62 	P-F1:70.27 	P-AP:73.22 	Aupro:20.33 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 17:16:29.046 - INFO: batch_size = 1
+25-06-26 17:16:29.047 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_extended/origin/models/['mvtec']_5.pth
+25-06-26 17:16:29.047 - INFO: class_name = candle
+25-06-26 17:16:29.047 - INFO: exclude_dataset_name = 
+25-06-26 17:16:29.047 - INFO: image_path = asset/img.png
+25-06-26 17:16:29.047 - INFO: image_size = 518
+25-06-26 17:16:29.047 - INFO: k_clusters = 20
+25-06-26 17:16:29.047 - INFO: model = ViT-L-14-336
+25-06-26 17:16:29.047 - INFO: prompting_branch = VL
+25-06-26 17:16:29.047 - INFO: prompting_depth = 4
+25-06-26 17:16:29.047 - INFO: prompting_length = 5
+25-06-26 17:16:29.047 - INFO: prompting_type = SD
+25-06-26 17:16:29.047 - INFO: save_fig = True
+25-06-26 17:16:29.047 - INFO: save_name = test.png
+25-06-26 17:16:29.048 - INFO: save_path = ./workspaces/results/test_isic_train_mvtec_zsad_extended
+25-06-26 17:16:29.048 - INFO: testing_data = isic
+25-06-26 17:16:29.048 - INFO: testing_model = dataset
+25-06-26 17:16:29.048 - INFO: training_data = ['mvtec', 'colondb']
+25-06-26 17:16:29.048 - INFO: use_hsf = True
+25-06-26 17:28:56.402 - INFO:     skin_cancer 		P-Auroc:88.62 	P-F1:70.29 	P-AP:75.97 	Aupro:30.96 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-26 17:28:56.403 - INFO:         Average 		P-Auroc:88.62 	P-F1:70.29 	P-AP:75.97 	Aupro:30.96 	I-Auroc:0.00 	I-F1:0.00 	I-AP:0.00
+25-06-29 09:49:54.533 - INFO: batch_size = 1
+25-06-29 09:49:54.533 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_origin/origin/models/['mvtec']_5.pth
+25-06-29 09:49:54.533 - INFO: class_name = candle
+25-06-29 09:49:54.533 - INFO: exclude_dataset_name = 
+25-06-29 09:49:54.533 - INFO: image_path = asset/img.png
+25-06-29 09:49:54.533 - INFO: image_size = 518
+25-06-29 09:49:54.533 - INFO: k_clusters = 20
+25-06-29 09:49:54.533 - INFO: model = ViT-L-14-336
+25-06-29 09:49:54.533 - INFO: prompting_branch = VL
+25-06-29 09:49:54.533 - INFO: prompting_depth = 4
+25-06-29 09:49:54.533 - INFO: prompting_length = 5
+25-06-29 09:49:54.534 - INFO: prompting_type = SD
+25-06-29 09:49:54.534 - INFO: save_fig = True
+25-06-29 09:49:54.534 - INFO: save_name = test.png
+25-06-29 09:49:54.534 - INFO: save_path = ./workspaces/results/test_br35h_train_mvtec_origin
+25-06-29 09:49:54.534 - INFO: testing_data = br35h
+25-06-29 09:49:54.534 - INFO: testing_model = dataset
+25-06-29 09:49:54.534 - INFO: training_data = ['mvtec', 'colondb']
+25-06-29 09:49:54.534 - INFO: use_hsf = True
+25-06-29 10:00:37.279 - INFO:           brain 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:88.69 	I-F1:81.22 	I-AP:87.81
+25-06-29 10:00:37.279 - INFO:         Average 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:88.69 	I-F1:81.22 	I-AP:87.81
+25-06-29 10:00:42.071 - INFO: batch_size = 1
+25-06-29 10:00:42.071 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_common_sense/origin/models/['mvtec']_5.pth
+25-06-29 10:00:42.071 - INFO: class_name = candle
+25-06-29 10:00:42.071 - INFO: exclude_dataset_name = 
+25-06-29 10:00:42.071 - INFO: image_path = asset/img.png
+25-06-29 10:00:42.071 - INFO: image_size = 518
+25-06-29 10:00:42.072 - INFO: k_clusters = 20
+25-06-29 10:00:42.072 - INFO: model = ViT-L-14-336
+25-06-29 10:00:42.072 - INFO: prompting_branch = VL
+25-06-29 10:00:42.072 - INFO: prompting_depth = 4
+25-06-29 10:00:42.072 - INFO: prompting_length = 5
+25-06-29 10:00:42.072 - INFO: prompting_type = SD
+25-06-29 10:00:42.072 - INFO: save_fig = True
+25-06-29 10:00:42.072 - INFO: save_name = test.png
+25-06-29 10:00:42.072 - INFO: save_path = ./workspaces/results/test_br35h_train_mvtec_zsad_common_sense
+25-06-29 10:00:42.072 - INFO: testing_data = br35h
+25-06-29 10:00:42.072 - INFO: testing_model = dataset
+25-06-29 10:00:42.072 - INFO: training_data = ['mvtec', 'colondb']
+25-06-29 10:00:42.072 - INFO: use_hsf = True
+25-06-29 10:11:29.585 - INFO:           brain 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:92.46 	I-F1:85.28 	I-AP:92.09
+25-06-29 10:11:29.586 - INFO:         Average 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:92.46 	I-F1:85.28 	I-AP:92.09
+25-06-29 10:11:36.145 - INFO: batch_size = 1
+25-06-29 10:11:36.145 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_extended/origin/models/['mvtec']_5.pth
+25-06-29 10:11:36.145 - INFO: class_name = candle
+25-06-29 10:11:36.145 - INFO: exclude_dataset_name = 
+25-06-29 10:11:36.145 - INFO: image_path = asset/img.png
+25-06-29 10:11:36.146 - INFO: image_size = 518
+25-06-29 10:11:36.146 - INFO: k_clusters = 20
+25-06-29 10:11:36.146 - INFO: model = ViT-L-14-336
+25-06-29 10:11:36.146 - INFO: prompting_branch = VL
+25-06-29 10:11:36.146 - INFO: prompting_depth = 4
+25-06-29 10:11:36.146 - INFO: prompting_length = 5
+25-06-29 10:11:36.146 - INFO: prompting_type = SD
+25-06-29 10:11:36.146 - INFO: save_fig = True
+25-06-29 10:11:36.146 - INFO: save_name = test.png
+25-06-29 10:11:36.146 - INFO: save_path = ./workspaces/results/test_br35h_train_mvtec_zsad_extended
+25-06-29 10:11:36.146 - INFO: testing_data = br35h
+25-06-29 10:11:36.146 - INFO: testing_model = dataset
+25-06-29 10:11:36.146 - INFO: training_data = ['mvtec', 'colondb']
+25-06-29 10:11:36.147 - INFO: use_hsf = True
+25-06-29 10:24:16.790 - INFO:           brain 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:86.79 	I-F1:79.28 	I-AP:86.00
+25-06-29 10:24:16.791 - INFO:         Average 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:86.79 	I-F1:79.28 	I-AP:86.00
+25-06-29 10:24:23.406 - INFO: batch_size = 1
+25-06-29 10:24:23.406 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_origin/origin/models/['mvtec']_5.pth
+25-06-29 10:24:23.406 - INFO: class_name = candle
+25-06-29 10:24:23.406 - INFO: exclude_dataset_name = 
+25-06-29 10:24:23.406 - INFO: image_path = asset/img.png
+25-06-29 10:24:23.407 - INFO: image_size = 518
+25-06-29 10:24:23.407 - INFO: k_clusters = 20
+25-06-29 10:24:23.407 - INFO: model = ViT-L-14-336
+25-06-29 10:24:23.407 - INFO: prompting_branch = VL
+25-06-29 10:24:23.407 - INFO: prompting_depth = 4
+25-06-29 10:24:23.407 - INFO: prompting_length = 5
+25-06-29 10:24:23.407 - INFO: prompting_type = SD
+25-06-29 10:24:23.407 - INFO: save_fig = True
+25-06-29 10:24:23.407 - INFO: save_name = test.png
+25-06-29 10:24:23.407 - INFO: save_path = ./workspaces/results/test_brainmri_train_mvtec_origin
+25-06-29 10:24:23.408 - INFO: testing_data = brainmri
+25-06-29 10:24:23.408 - INFO: testing_model = dataset
+25-06-29 10:24:23.408 - INFO: training_data = ['mvtec', 'colondb']
+25-06-29 10:24:23.408 - INFO: use_hsf = True
+25-06-29 10:25:30.044 - INFO:       brain_mri 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:85.53 	I-F1:86.38 	I-AP:87.96
+25-06-29 10:25:30.044 - INFO:         Average 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:85.53 	I-F1:86.38 	I-AP:87.96
+25-06-29 10:25:35.153 - INFO: batch_size = 1
+25-06-29 10:25:35.153 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_common_sense/origin/models/['mvtec']_5.pth
+25-06-29 10:25:35.154 - INFO: class_name = candle
+25-06-29 10:25:35.154 - INFO: exclude_dataset_name = 
+25-06-29 10:25:35.154 - INFO: image_path = asset/img.png
+25-06-29 10:25:35.154 - INFO: image_size = 518
+25-06-29 10:25:35.154 - INFO: k_clusters = 20
+25-06-29 10:25:35.154 - INFO: model = ViT-L-14-336
+25-06-29 10:25:35.154 - INFO: prompting_branch = VL
+25-06-29 10:25:35.155 - INFO: prompting_depth = 4
+25-06-29 10:25:35.155 - INFO: prompting_length = 5
+25-06-29 10:25:35.155 - INFO: prompting_type = SD
+25-06-29 10:25:35.155 - INFO: save_fig = True
+25-06-29 10:25:35.155 - INFO: save_name = test.png
+25-06-29 10:25:35.155 - INFO: save_path = ./workspaces/results/test_brainmri_train_mvtec_zsad_common_sense
+25-06-29 10:25:35.155 - INFO: testing_data = brainmri
+25-06-29 10:25:35.155 - INFO: testing_model = dataset
+25-06-29 10:25:35.156 - INFO: training_data = ['mvtec', 'colondb']
+25-06-29 10:25:35.156 - INFO: use_hsf = True
+25-06-29 10:26:48.170 - INFO:       brain_mri 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:84.26 	I-F1:84.97 	I-AP:87.53
+25-06-29 10:26:48.171 - INFO:         Average 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:84.26 	I-F1:84.97 	I-AP:87.53
+25-06-29 10:26:52.992 - INFO: batch_size = 1
+25-06-29 10:26:52.993 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_extended/origin/models/['mvtec']_5.pth
+25-06-29 10:26:52.993 - INFO: class_name = candle
+25-06-29 10:26:52.993 - INFO: exclude_dataset_name = 
+25-06-29 10:26:52.993 - INFO: image_path = asset/img.png
+25-06-29 10:26:52.993 - INFO: image_size = 518
+25-06-29 10:26:52.993 - INFO: k_clusters = 20
+25-06-29 10:26:52.993 - INFO: model = ViT-L-14-336
+25-06-29 10:26:52.993 - INFO: prompting_branch = VL
+25-06-29 10:26:52.993 - INFO: prompting_depth = 4
+25-06-29 10:26:52.993 - INFO: prompting_length = 5
+25-06-29 10:26:52.993 - INFO: prompting_type = SD
+25-06-29 10:26:52.993 - INFO: save_fig = True
+25-06-29 10:26:52.994 - INFO: save_name = test.png
+25-06-29 10:26:52.994 - INFO: save_path = ./workspaces/results/test_brainmri_train_mvtec_zsad_extended
+25-06-29 10:26:52.994 - INFO: testing_data = brainmri
+25-06-29 10:26:52.994 - INFO: testing_model = dataset
+25-06-29 10:26:52.994 - INFO: training_data = ['mvtec', 'colondb']
+25-06-29 10:26:52.994 - INFO: use_hsf = True
+25-06-29 10:28:02.485 - INFO:       brain_mri 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:81.42 	I-F1:83.91 	I-AP:84.51
+25-06-29 10:28:02.485 - INFO:         Average 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:81.42 	I-F1:83.91 	I-AP:84.51
+25-06-29 10:28:07.175 - INFO: batch_size = 1
+25-06-29 10:28:07.175 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_origin/origin/models/['mvtec']_5.pth
+25-06-29 10:28:07.175 - INFO: class_name = candle
+25-06-29 10:28:07.175 - INFO: exclude_dataset_name = 
+25-06-29 10:28:07.175 - INFO: image_path = asset/img.png
+25-06-29 10:28:07.175 - INFO: image_size = 518
+25-06-29 10:28:07.175 - INFO: k_clusters = 20
+25-06-29 10:28:07.175 - INFO: model = ViT-L-14-336
+25-06-29 10:28:07.175 - INFO: prompting_branch = VL
+25-06-29 10:28:07.175 - INFO: prompting_depth = 4
+25-06-29 10:28:07.175 - INFO: prompting_length = 5
+25-06-29 10:28:07.175 - INFO: prompting_type = SD
+25-06-29 10:28:07.176 - INFO: save_fig = True
+25-06-29 10:28:07.176 - INFO: save_name = test.png
+25-06-29 10:28:07.176 - INFO: save_path = ./workspaces/results/test_headct_train_mvtec_origin
+25-06-29 10:28:07.176 - INFO: testing_data = headct
+25-06-29 10:28:07.176 - INFO: testing_model = dataset
+25-06-29 10:28:07.176 - INFO: training_data = ['mvtec', 'colondb']
+25-06-29 10:28:07.176 - INFO: use_hsf = True
+25-06-29 10:29:03.801 - INFO:          headct 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:91.41 	I-F1:84.73 	I-AP:91.78
+25-06-29 10:29:03.802 - INFO:         Average 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:91.41 	I-F1:84.73 	I-AP:91.78
+25-06-29 10:29:08.480 - INFO: batch_size = 1
+25-06-29 10:29:08.480 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_common_sense/origin/models/['mvtec']_5.pth
+25-06-29 10:29:08.480 - INFO: class_name = candle
+25-06-29 10:29:08.480 - INFO: exclude_dataset_name = 
+25-06-29 10:29:08.480 - INFO: image_path = asset/img.png
+25-06-29 10:29:08.480 - INFO: image_size = 518
+25-06-29 10:29:08.480 - INFO: k_clusters = 20
+25-06-29 10:29:08.480 - INFO: model = ViT-L-14-336
+25-06-29 10:29:08.480 - INFO: prompting_branch = VL
+25-06-29 10:29:08.481 - INFO: prompting_depth = 4
+25-06-29 10:29:08.481 - INFO: prompting_length = 5
+25-06-29 10:29:08.481 - INFO: prompting_type = SD
+25-06-29 10:29:08.481 - INFO: save_fig = True
+25-06-29 10:29:08.481 - INFO: save_name = test.png
+25-06-29 10:29:08.481 - INFO: save_path = ./workspaces/results/test_headct_train_mvtec_zsad_common_sense
+25-06-29 10:29:08.481 - INFO: testing_data = headct
+25-06-29 10:29:08.481 - INFO: testing_model = dataset
+25-06-29 10:29:08.481 - INFO: training_data = ['mvtec', 'colondb']
+25-06-29 10:29:08.481 - INFO: use_hsf = True
+25-06-29 10:30:06.420 - INFO:          headct 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:81.08 	I-F1:77.87 	I-AP:77.44
+25-06-29 10:30:06.420 - INFO:         Average 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:81.08 	I-F1:77.87 	I-AP:77.44
+25-06-29 10:30:11.064 - INFO: batch_size = 1
+25-06-29 10:30:11.064 - INFO: ckt_path = /mnt/data1/wgp/AdaCLIP_zsad/checkpoints/mvtec_zsad_extended/origin/models/['mvtec']_5.pth
+25-06-29 10:30:11.065 - INFO: class_name = candle
+25-06-29 10:30:11.065 - INFO: exclude_dataset_name = 
+25-06-29 10:30:11.065 - INFO: image_path = asset/img.png
+25-06-29 10:30:11.065 - INFO: image_size = 518
+25-06-29 10:30:11.065 - INFO: k_clusters = 20
+25-06-29 10:30:11.065 - INFO: model = ViT-L-14-336
+25-06-29 10:30:11.065 - INFO: prompting_branch = VL
+25-06-29 10:30:11.065 - INFO: prompting_depth = 4
+25-06-29 10:30:11.065 - INFO: prompting_length = 5
+25-06-29 10:30:11.065 - INFO: prompting_type = SD
+25-06-29 10:30:11.065 - INFO: save_fig = True
+25-06-29 10:30:11.065 - INFO: save_name = test.png
+25-06-29 10:30:11.065 - INFO: save_path = ./workspaces/results/test_headct_train_mvtec_zsad_extended
+25-06-29 10:30:11.066 - INFO: testing_data = headct
+25-06-29 10:30:11.066 - INFO: testing_model = dataset
+25-06-29 10:30:11.066 - INFO: training_data = ['mvtec', 'colondb']
+25-06-29 10:30:11.066 - INFO: use_hsf = True
+25-06-29 10:31:11.982 - INFO:          headct 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:84.97 	I-F1:78.47 	I-AP:83.56
+25-06-29 10:31:11.982 - INFO:         Average 		P-Auroc:0.00 	P-F1:0.00 	P-AP:0.00 	Aupro:0.00 	I-Auroc:84.97 	I-F1:78.47 	I-AP:83.56

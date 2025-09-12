@@ -1,0 +1,16 @@
+ftfy
+horovod
+huggingface_hub
+numpy
+opencv_python
+pandas
+Pillow
+regex
+scikit_image
+scikit_learn
+setuptools
+tabulate
+timm
+tqdm
+transformers
+kornia
