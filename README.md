@@ -40,5 +40,7 @@ Due to copyright restrictions, the raw data is not publicly available at this ti
 <img width="2200" height="1208" alt="image" src="https://github.com/user-attachments/assets/8ac49785-92cb-41a5-8904-5530d86ad915" />
 </div>
 
+## Acknowledgement
+We thank the great works [WinCLIP(zqhang)](https://github.com/zqhang/Accurate-WinCLIP-pytorch), [AnVoL](https://github.com/hq-deng/AnoVL), [APRIL-GAN](https://github.com/ByChelsea/VAND-APRIL-GAN), [AnomalyCLIP](https://github.com/zqhang/AnomalyCLIP), [CLIP-AD](https://github.com/ByChelsea/CLIP-AD), [FiLo](https://github.com/CASIA-IVA-Lab/FiLo), [AdaCLIP](https://github.com/caoyunkang/AdaCLIP), [VCP-CLIP](https://github.com/xiaozhen228/VCP-CLIP), [AA-CLIP](https://github.com/Mwxinnn/AA-CLIP)
 
 
