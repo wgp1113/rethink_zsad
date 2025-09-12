@@ -10,6 +10,8 @@ Zero-shot image anomaly detection (ZSAD) has been a hot topic recently, while ex
 <img width="1400" height="1194" alt="image" src="https://github.com/user-attachments/assets/6beb61db-fd00-4c79-8c1d-a4389c9763b3" />
 <div>
 
+## Reconstruction of new benchmarks for ZSAD
+
 <div align="center">
 <img width="600" height="267" alt="image" src="https://github.com/user-attachments/assets/af6cb2b9-4007-4263-a9e5-4a2c1caf80dc" />
 <div>
