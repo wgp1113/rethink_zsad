@@ -11,19 +11,19 @@ Zero-shot image anomaly detection (ZSAD) has been a hot topic recently, while ex
 <div>
 
 <div align="center">
-<img width="800" height="356" alt="image" src="https://github.com/user-attachments/assets/af6cb2b9-4007-4263-a9e5-4a2c1caf80dc" />
+<img width="600" height="267" alt="image" src="https://github.com/user-attachments/assets/af6cb2b9-4007-4263-a9e5-4a2c1caf80dc" />
 <div>
   
 <div align="center">
-<img width="800" height="1066" alt="image" src="https://github.com/user-attachments/assets/81b31f9b-3f03-43a6-a265-b23f2b103eb0" />
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/81b31f9b-3f03-43a6-a265-b23f2b103eb0" />
 <div>
   
 <div align="center">
-<img width="800" height="730" alt="image" src="https://github.com/user-attachments/assets/0f4f4e8c-30ad-4b91-8961-e1e804bb448b" />
+<img width="600" height="548" alt="image" src="https://github.com/user-attachments/assets/0f4f4e8c-30ad-4b91-8961-e1e804bb448b" />
 <div>
   
 <div align="center">
-<img width="1000" height="464" alt="image" src="https://github.com/user-attachments/assets/845d94f4-d4a3-437f-870b-2a24023335eb" />
+<img width="750" height="348" alt="image" src="https://github.com/user-attachments/assets/845d94f4-d4a3-437f-870b-2a24023335eb" />
 <div>
 
 Table 1: The comparison between the reconstructed benchmarks and the original datasets
